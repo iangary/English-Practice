@@ -21,6 +21,10 @@ meaningless.
 - **Tue/Thu:** One GRE Text Completion set + one Reading Comprehension
   passage, both timed, from `GRE/text_completion_practice.md` and
   `GRE/reading_comprehension_practice.md`.
+- **Twice this fortnight:** One IELTS Writing Task 1 report (20 min) from
+  `IELTS/writing_task1.md`, and one Listening drill set (using the
+  text-to-speech protocol) from `IELTS/listening_practice_01.md` or
+  `TOEFL/listening_practice_01.md`.
 - **Sat:** TOEFL Independent + Integrated Writing, back to back, full time
   pressure (30 min + 20 min), from `TOEFL/writing_tasks.md`.
 - **Weekly mock:** One full IELTS Academic Reading passage set, strictly
