@@ -16,6 +16,12 @@ file doesn't have a timer attached to it, it's not a drill, it's trivia.
 | `IELTS/` | Writing Task 2, Academic Reading, Speaking cue cards, vocabulary |
 | `TOEFL/` | Independent + Integrated Writing, Reading, Speaking tasks |
 | `GRE/` | Verbal vocab, Text Completion, Reading Comprehension, Quant drills, AWA |
+| `PUSH_WEEK.md` | Combined 3-hour, cross-exam fatigue stress test. Run every 2 weeks once you have a baseline — not before. |
+
+Files suffixed `_set2` (e.g. `GRE/verbal_vocab_set2.md`) are a harder
+tier: tighter clocks, rarer vocabulary, more abstract prompts. Don't open
+them until the corresponding Set 1 material is solid — see each file's
+own gate at the top.
 
 ## Rules of engagement
 
