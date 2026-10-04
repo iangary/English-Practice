@@ -18,6 +18,9 @@ meaningless.
   drilled both directions (word→meaning, meaning→word).
 - **Mon/Wed/Fri:** One IELTS Writing Task 2 essay, 40 minutes, no outline
   prepared in advance. Self-grade against `IELTS/writing_task2.md`'s rubric.
+  Alternate every other session with one IELTS Writing Task 1 (20 minutes,
+  rotate chart types) from `IELTS/writing_task1.md` — Task 1 is worth half
+  your Writing band and is the section most people under-practice.
 - **Tue/Thu:** One GRE Text Completion set + one Reading Comprehension
   passage, both timed, from `GRE/text_completion_practice.md` and
   `GRE/reading_comprehension_practice.md`.
@@ -37,6 +40,13 @@ meaningless.
 - Add IELTS/TOEFL Speaking: record yourself answering 3 cue
   cards/prompts per session, play it back, transcribe your own filler
   words (really) and count them.
+- Move to the harder reading sets — `IELTS/reading_practice_02.md`,
+  `TOEFL/reading_practice_02.md`, and GRE RC Passage 2 in
+  `GRE/reading_comprehension_practice.md` — which run shorter timers and
+  heavier question types (Select-All-That-Apply, sentence selection).
+  If Passage 1 of any set still gives you trouble, repeat it before
+  moving on; the harder set is meant to stress-test a skill you already
+  have, not introduce the format cold.
 - **Weekly mock:** Full TOEFL Reading section (3 passages, 54 minutes).
 
 ## Weeks 5–6 — Stress-test weaknesses

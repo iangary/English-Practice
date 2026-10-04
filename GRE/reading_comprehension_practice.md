@@ -113,3 +113,144 @@ your misses cluster on "detail" questions (go back and re-read more
 slowly, you're moving too fast) or "inference/function" questions (this
 is a reasoning gap, not a reading-speed gap — drill identifying the
 author's purpose in each paragraph before reading the questions).
+
+---
+
+## Passage 2 (Harder — includes Select-All-That-Apply and sentence selection)
+
+**Timer: 9 minutes for this passage and its 6 questions. Select-All-
+questions have no partial credit — every correct option must be selected
+and no incorrect one — so do not rush them to "save time"; a wrong
+guess costs the same as leaving it blank.**
+
+## Passage
+
+A longstanding assumption in paleontology held that mass extinctions,
+by eliminating dominant incumbent species, function primarily as
+creative forces, clearing ecological space that permits surviving
+lineages to diversify rapidly into newly vacated niches. The
+extinction of non-avian dinosaurs at the end of the Cretaceous period,
+commonly cited as having opened the way for mammalian diversification,
+is the textbook example offered in support of this view. Closer
+examination of the fossil record, however, complicates this tidy
+narrative considerably.
+
+Several mammalian lineages, far from waiting passively for the
+asteroid impact to clear competitive pressure, show evidence of having
+begun diversifying before the Cretaceous-Paleogene boundary, suggesting
+that at least some of the ecological and evolutionary groundwork for
+later mammalian success had already been laid while dinosaurs still
+dominated terrestrial ecosystems. This finding does not refute the
+importance of the extinction event itself—mammalian diversification
+after the boundary was undeniably more rapid and extensive than what
+preceded it—but it does undermine the simpler version of the
+"creative destruction" narrative, in which mammals are cast as having
+contributed essentially nothing to their own eventual dominance beyond
+surviving.
+
+A further complication emerges from the recovery patterns of marine
+ecosystems after the same extinction event. Rather than a uniform
+burst of diversification across all surviving marine lineages, the
+fossil record shows markedly uneven recovery: some lineages radiated
+quickly into new forms and habitats, while others, despite having
+survived the extinction itself, persisted for millions of years in
+much the same low-diversity state as immediately after the boundary,
+only beginning substantial diversification long after ecological space
+had ostensibly been available for them to exploit. This unevenness
+suggests that mere survival and the mere existence of vacant ecological
+niches are insufficient, by themselves, to guarantee or even to predict
+rapid diversification; some additional factor, whether genetic,
+developmental, or ecological, evidently determines which surviving
+lineages are positioned to capitalize on post-extinction opportunity
+and which are not, and this factor remains considerably less understood
+than the extinction event itself.
+
+Taken together, these findings suggest a more qualified role for mass
+extinction in macroevolutionary change: less a simple reset button that
+mechanically produces diversification in whichever lineages happen to
+survive, and more a filter whose effects are substantially shaped by
+properties the surviving lineages already possessed beforehand—some of
+which may have been incidental to the extinction event itself rather
+than selected for by it.
+
+## Questions
+
+**1. Main idea:** Which best describes the primary purpose of the passage?
+(A) To argue that mass extinctions play no meaningful role in
+    macroevolutionary change
+(B) To complicate a simple "creative destruction" view of mass
+    extinction by presenting evidence that pre-existing lineage
+    properties, not survival alone, shape post-extinction diversification
+(C) To prove definitively that mammals were already ecologically
+    dominant before the Cretaceous-Paleogene boundary
+(D) To compare marine and terrestrial extinction rates in quantitative
+    detail
+
+**2. Detail:** According to the passage, what evidence complicates the
+standard account of mammalian diversification after the Cretaceous
+extinction?
+(A) Mammals went extinct at the same rate as dinosaurs.
+(B) Some mammalian lineages show evidence of diversifying before the
+    extinction boundary itself.
+(C) No mammalian diversification occurred until many millions of years
+    after the boundary.
+(D) Marine lineages diversified faster than mammalian lineages.
+
+**3. Select All That Apply:** The passage suggests which of the
+following about surviving marine lineages after the extinction event?
+Select all that apply.
+
+☐ (A) Some lineages diversified rapidly while others remained
+       low-diversity for millions of years afterward.
+☐ (B) Survival alone was sufficient to guarantee rapid diversification.
+☐ (C) The factor determining which lineages diversified quickly remains
+       less well understood than the extinction event itself.
+
+**4. Function:** Why does the author state that the extinction's
+importance is "not refuted" by evidence of pre-boundary mammalian
+diversification?
+(A) To concede that the extinction event still mattered, while rejecting
+    only the simplified version in which mammals contributed nothing of
+    their own to later success
+(B) To argue that the extinction event had no measurable effect at all
+(C) To suggest that the asteroid impact has been definitively disproven
+    as a cause of the extinction
+(D) To introduce unrelated evidence about marine ecosystems
+
+**5. Sentence selection (identify by quoting the sentence):** Which
+sentence in the passage most directly states that surviving a mass
+extinction and having access to vacant ecological niches do not, by
+themselves, predict which lineages will diversify rapidly?
+
+**6. Inference:** It can be inferred that the author would most likely
+agree with which of the following statements about macroevolutionary
+theory generally?
+(A) Ecological opportunity alone fully explains evolutionary outcomes.
+(B) Properties intrinsic to a lineage prior to an extinction event can
+    meaningfully shape its post-extinction evolutionary trajectory.
+(C) The fossil record provides no useful evidence about diversification
+    rates.
+(D) Marine and terrestrial lineages always respond identically to the
+    same extinction event.
+
+## Answer Key
+
+1. **B**
+2. **B**
+3. **A, C** — (B) is directly contradicted: "mere survival and the mere
+   existence of vacant ecological niches are insufficient... to
+   guarantee or even to predict rapid diversification."
+4. **A**
+5. "This unevenness suggests that mere survival and the mere existence
+   of vacant ecological niches are insufficient, by themselves, to
+   guarantee or even to predict rapid diversification..."
+6. **B**
+
+### Scoring
+6/6 = strong · 5/6 = solid, but review whichever question type you
+missed specifically (a missed Select-All is usually an over-inference
+on the wrong option, not under-reading) · 4/6 or below: re-read the
+final paragraph alone and write, in one sentence, what the author's
+actual thesis is — if you can't state it precisely, you answered the
+detail questions without anchoring them to the argument, which is
+exactly what GRE RC is designed to penalize.
