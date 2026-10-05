@@ -31,6 +31,8 @@ than it uses rare words placed approximately right.
 ## Files here
 
 - `writing_task2.md` — prompts, rubric, self-grading checklist, timed.
+- `writing_task2_set2.md` — Set 2, compound/hidden-demand prompts and a
+  stricter Band 8 rubric; requires a Band 7+ average on Set 1 first.
 - `reading_practice_01.md` — one full passage + 13 questions + answer key.
 - `speaking_cue_cards.md` — Part 2 cue cards + Part 3 follow-ups.
 - `vocabulary.md` — academic collocations and band-8 phrasing upgrades.

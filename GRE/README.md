@@ -28,7 +28,11 @@ Scored 130–170 per section (1-point increments) for Verbal/Quant, 0–6
 ## Files here
 
 - `verbal_vocab.md` — high-frequency GRE words, drilled both directions.
+- `verbal_vocab_set2.md` — Set 2 (30 more words, confusable pairs);
+  requires Set 1 mastery first.
 - `text_completion_practice.md` — timed TC/SE-style sets + explanations.
 - `reading_comprehension_practice.md` — one passage + questions + key.
 - `quant_drills.md` — arithmetic/algebra/geometry/data sets, fully worked.
+- `quant_drills_set2.md` — Set 2, tighter clock, harder traps; requires
+  9+/12 on Set 1 first.
 - `awa_prompts.md` — Issue + Argument prompts, rubric, outline method.
