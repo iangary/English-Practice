@@ -4,6 +4,14 @@ Log every timed drill and every mock here. "I'll remember" is not a
 tracking system. Copy the row template and fill it in immediately after
 each session — scores decay in memory within hours.
 
+> **Coach's note:** every table below is still empty. The scaffolding
+> doesn't train you — the timer does. New drills (IELTS/TOEFL Listening,
+> IELTS Writing Task 1, GRE vocab Set 2, GRE RC passage 2) have just been
+> added on top of the existing material specifically so you have no
+> excuse to plateau on what you've already seen once. Before touching any
+> new file: sit the Week 0 baseline row below, today, timed, no
+> exceptions. An untimed first attempt is not a baseline, it's a guess.
+
 ## Baseline (Week 0)
 
 | Date | Exam/Section | Score/Band | Time taken | Notes |
