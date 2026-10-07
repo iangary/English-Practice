@@ -103,3 +103,104 @@ species is and why it matters to an ecosystem.
 
 Log a self-estimated 0–4 score per task (TOEFL Speaking's internal
 rubric scale) and your biggest gap in `PROGRESS_LOG.md`.
+
+---
+
+## Set 2 — Harder Content, Same Clock
+
+The timing stays identical to Set 1 (don't shortcut your own prep time —
+that's not what makes this harder). What's harder is the density of the
+source material: these readings and lectures pack more ideas per second,
+so you have less slack to "wait for the main point" before you start
+taking notes.
+
+### Task 1: Independent (15s prep, 45s speak)
+
+- Some people believe it's better to make decisions quickly; others
+  believe it's better to take time and think carefully before deciding.
+  Which do you think is better, and why?
+- Describe a time you changed your opinion about something important
+  after encountering new evidence. What changed your mind?
+
+### Task 2: Integrated — Campus situation (45s prep, 60s speak)
+
+**Reading (45 seconds):**
+
+> **Notice from the Registrar's Office:** Beginning next semester,
+> priority course registration will be determined primarily by number of
+> credits completed rather than by declared major. The university states
+> this change will give students closer to graduation a fairer chance at
+> required courses that fill up quickly each term.
+
+**Listening (simulated conversation, read once):**
+
+> **Student 1:** "I get the logic, but this really hurts transfer
+> students. I've got way fewer credits here even though I'm only a year
+> from graduating, so under this system I'd register *after* a
+> first-year student with more transferred credits."
+> **Student 2:** "Right, and it assumes credit count tracks how close you
+> actually are to finishing your specific major, which isn't always
+> true — some majors just require more credits than others to begin
+> with."
+
+**Your task:** Summarize the student's opinion of the policy change and
+the reasons given for that opinion.
+
+### Task 3: Integrated — Academic (50s prep, 60s speak)
+
+**Reading (45 seconds):**
+
+> The **sunk cost fallacy** describes the tendency to continue investing
+> in a decision based on the resources already spent on it, rather than
+> on a fresh evaluation of its future costs and benefits. Economically,
+> resources already spent are "sunk" — unrecoverable regardless of what
+> is decided next — and so, in theory, should not factor into a rational
+> decision going forward.
+
+**Listening (simulated lecture excerpt, read once):**
+
+> "Here's a case that comes up constantly in business. A company spends
+> three years and considerable money developing a new product line.
+> Partway through, market research starts showing the product won't be
+> profitable even if finished — a competitor has already captured the
+> market it was aimed at. But executives, pointing to the three years and
+> the budget already committed, push to finish it anyway rather than
+> write off the investment and redirect those remaining resources
+> somewhere with better prospects. The product launches, underperforms
+> exactly as the research predicted, and the company loses even more than
+> it would have by stopping early — the original investment was already
+> gone either way; continuing just added to the loss instead of limiting
+> it."
+
+**Your task:** Explain the concept of the sunk cost fallacy using the
+specific example from the lecture.
+
+### Task 4: Integrated — Academic, listening only (20s prep, 60s speak)
+
+**Listening (simulated lecture excerpt, read once):**
+
+> "Economists talk about diminishing marginal utility — the idea that
+> each additional unit of something provides less added satisfaction than
+> the one before it. Picture someone who hasn't eaten all day being given
+> slices of pizza one at a time. The first slice is intensely satisfying —
+> they were genuinely hungry. The second is still good, but noticeably
+> less thrilling than the first. By the fifth or sixth slice, they're not
+> just failing to enjoy it more, they may actively feel worse eating it.
+> The *total* satisfaction keeps growing with each slice for a while, but
+> the *additional* satisfaction each new slice provides keeps shrinking,
+> and can even go negative. This is why, economically, giving someone
+> twice as much of something essentially never makes them twice as
+> happy."
+
+**Your task:** Using the pizza example, explain the concept of
+diminishing marginal utility.
+
+### Extra self-audit for this set only
+
+Because the source material is denser, check specifically: did you
+report the *actual mechanism* given in the example (the specific cause
+leading to the specific effect), or did you summarize it at a level so
+general it would apply to almost any example of the concept? Vague
+restatement is the single biggest score suppressor once the content
+itself gets harder — specificity is what the rubric is actually
+rewarding here.

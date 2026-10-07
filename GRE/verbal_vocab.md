@@ -58,6 +58,68 @@ both directions in under 3 seconds each, twice in a row, on different days.
 4. mitigate
 5. recalcitrant
 
+## Set 2 — Advanced (30 words)
+
+These are lower-frequency and harder to pin down than Set 1 — several have
+meanings that drift sharply from their everyday-sounding roots. Don't skip
+to Set 2 until Set 1 is fully mastered (both directions, two days running);
+stacking unmastered vocab on top of other unmastered vocab is how people
+end up "reviewing" 200 words a day and retaining none of them.
+
+| Word | Part of speech | Definition | Example sentence |
+|---|---|---|---|
+| Perspicacious | adj. | having keen insight or judgment | The **perspicacious** analyst spotted the accounting irregularity months before auditors did. |
+| Obdurate | adj. | stubbornly refusing to change one's opinion | Despite overwhelming evidence, the board remained **obdurate** on the merger. |
+| Perfidy | n. | deceitfulness; betrayal of trust | His **perfidy** toward his business partner cost him every remaining friendship in the industry. |
+| Equanimity | n. | calmness and composure, especially under pressure | She received the diagnosis with remarkable **equanimity**, already planning her next steps. |
+| Vitriolic | adj. | filled with bitter criticism or malice | The **vitriolic** op-ed accused the mayor of outright corruption. |
+| Sycophant | n. | one who flatters powerful people for personal gain | The CEO surrounded himself with **sycophants** who never challenged a single decision. |
+| Pellucid | adj. | translucently clear, easy to understand | Her **pellucid** explanation of tax law made the dense topic feel simple. |
+| Mendacious | adj. | lying; untruthful | The witness's **mendacious** testimony fell apart under cross-examination. |
+| Opprobrium | n. | harsh public criticism or disgrace | The senator faced widespread **opprobrium** after the leaked recording. |
+| Inchoate | adj. | just begun and not fully formed | His argument was still **inchoate**, more a collection of hunches than a thesis. |
+| Recondite | adj. | obscure; understood by very few | The footnote referenced a **recondite** 16th-century legal doctrine. |
+| Apposite | adj. | highly relevant; well-suited to the situation | Her **apposite** quotation from the report silenced further debate. |
+| Anodyne | adj. | not likely to offend; inoffensive, bland | The CEO's **anodyne** statement said nothing of substance about the layoffs. |
+| Inimical | adj. | harmful or hostile to | Prolonged isolation proved **inimical** to the team's morale. |
+| Prevaricate | v. | to speak evasively to avoid the truth | Rather than answer directly, the spokesperson **prevaricated** for several minutes. |
+| Sagacious | adj. | showing sound judgment; wise | The **sagacious** investor avoided the bubble that ruined her peers. |
+| Turgid | adj. | pompous or overblown in style; also, swollen | Critics found the novel's **turgid** prose exhausting to read. |
+| Vituperative | adj. | bitter and abusive in language | The feud produced a string of **vituperative** emails between the former partners. |
+| Munificent | adj. | extremely generous | The **munificent** donation funded the entire new library wing. |
+| Peremptory | adj. | leaving no room for denial or discussion | The general's **peremptory** order ended all debate among his officers. |
+| Obsequious | adj. | excessively eager to please or obey | The **obsequious** waiter hovered so much it became uncomfortable. |
+| Diffident | adj. | lacking confidence; shy | His **diffident** manner in meetings masked genuinely sharp ideas. |
+| Exculpate | v. | to clear from blame | New DNA evidence finally **exculpated** the man after a decade in prison. |
+| Fulminate | v. | to loudly protest or denounce | The columnist **fulminated** against the policy for three consecutive issues. |
+| Harangue | n./v. | a lengthy, aggressive lecture or scolding | The coach's postgame **harangue** lasted longer than the game itself. |
+| Impecunious | adj. | having little or no money | The **impecunious** artist survived on commissions and borrowed time. |
+| Lugubrious | adj. | mournful, dismal, exaggeratedly sad | The film's **lugubrious** tone made even its happy ending feel heavy. |
+| Sanctimonious | adj. | hypocritically pious or morally superior | His **sanctimonious** lecture rang hollow given his own record. |
+| Tendentious | adj. | promoting a particular (often controversial) viewpoint | The documentary was criticized as **tendentious**, omitting any counterevidence. |
+| Umbrage | n. | offense or annoyance | She took **umbrage** at the implication that she hadn't done the work herself. |
+
+### Drill: fill in the blank (cover the answer key below)
+
+1. He answered every direct question with vague, ______ non-answers,
+   never actually lying but never telling the truth either.
+2. The committee's early draft was still ______, full of promising ideas
+   that hadn't yet been worked into an actual plan.
+3. Her ______ donation to the hospital funded an entire new wing.
+4. The critic's ______ takedown of the film left the director publicly
+   humiliated.
+5. Despite losing the argument on every point, he remained ______,
+   unwilling to concede anything.
+
+#### Answer key
+
+1. prevaricated
+2. inchoate
+3. munificent
+4. vituperative / vitriolic (either fits; vitriolic emphasizes the malice,
+   vituperative the abusive language)
+5. obdurate
+
 ## Why this matters for Text Completion specifically
 
 GRE Text Completion rarely fails you on "do you know this word" in

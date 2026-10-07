@@ -146,3 +146,131 @@ knowing the method and reliably getting the point under time pressure.
 "careless" (knew the method, slipped on execution — drill verification
 habits) vs. "conceptual" (didn't know the approach — review that specific
 topic) in `PROGRESS_LOG.md`. These need entirely different fixes.
+
+---
+
+## Drill Set 2 — Harder, Tighter Clock
+
+**Timer: 1:30/question average — 18 minutes total for these 12, no
+exceptions.** This set assumes Set 1 is already comfortable at or under
+pace. If you haven't hit 11/12 on Set 1 twice, finish that before
+starting this — a faster clock on unmastered material just trains panic,
+not speed.
+
+### Quantitative Comparison
+
+**1.** x > 0, y > 0, x² + y² = 25, and xy = 12.
+
+Quantity A: x + y
+Quantity B: 7
+
+**2.** n is an odd positive integer.
+
+Quantity A: the remainder when n² is divided by 8
+Quantity B: 1
+
+**3.** n is an integer greater than 1. Set S = {2, 4, 6, ..., 2n}. Set T =
+{1, 2, 3, ..., n}.
+
+Quantity A: the standard deviation of S
+Quantity B: the standard deviation of T
+
+### Problem Solving
+
+**4.** A committee of 4 people is to be chosen from 6 men and 5 women.
+How many such committees contain at least 2 women?
+
+**5.** Working alone, Machine A completes a job in 6 hours and Machine B
+completes the same job in 10 hours. Machine A works alone for 2 hours,
+then Machine B joins and they finish the job together. How many hours,
+total, does the job take from start to finish?
+
+**6.** What is the largest integer k such that 10! is divisible by 2^k?
+
+**7.** A sequence is defined by a₁ = 3 and a(n+1) = 2·a(n) − 1. What is a₅?
+
+**8.** If |2x − 5| ≤ 7, what is the range of possible values of x?
+
+**9.** In a group of 150 students, 90 study French, 70 study Spanish, and
+20 study neither language. How many students study both?
+
+**10.** A right circular cylinder has radius 3 and volume 54π. What is
+its total surface area (both circular bases included)?
+
+**11.** The ratio of a to b is 2:3, and the ratio of b to c is 4:5. What
+is the ratio of a to c?
+
+**12.** x is a positive integer chosen from {1, 2, 3, ..., 10}. What is
+the probability that x³ ≤ 1000?
+
+---
+
+### Worked Solutions — Set 2
+
+**1. Answer: (C).** (x+y)² = x² + y² + 2xy = 25 + 24 = 49, so x + y = 7
+(positive, since x, y > 0). Equal.
+
+**2. Answer: (C).** This is a fact worth memorizing outright: the square
+of any odd integer is always ≡ 1 (mod 8). Check it: 1²=1, 3²=9 (rem 1),
+5²=25 (rem 1), 7²=49 (rem 1) — the pattern holds for every odd n. Equal.
+
+**3. Answer: (A).** S = 2·T element-wise, and multiplying every value in
+a data set by a constant c multiplies the standard deviation by |c| (it
+does **not** add or get affected by the shift the way the mean would).
+So SD(S) = 2·SD(T), which is strictly greater than SD(T) as long as
+SD(T) > 0 — guaranteed here since n > 1 means T has at least two distinct
+values. (Trap: this only works because it's a pure scaling, not a shift —
+"add 2 to every value" would leave the SD unchanged instead.)
+
+**4. Answer: 215.** Total ways to pick any 4 from 11: C(11,4) = 330.
+Subtract the cases with fewer than 2 women. Zero women: C(6,4) = 15. One
+woman: C(5,1)·C(6,3) = 5·20 = 100. At least 2 women = 330 − 15 − 100 =
+**215**. (Complementary counting is faster here than summing the "exactly
+2," "exactly 3," "exactly 4 women" cases directly — recognize the signal:
+"at least" with more than one excluded case usually means subtract instead
+of add.)
+
+**5. Answer: 4.5 hours.** Rate A = 1/6 job/hr. In 2 hours alone, A
+completes 2/6 = 1/3 of the job, leaving 2/3. Combined rate once B joins =
+1/6 + 1/10 = 5/30 + 3/30 = 8/30 = 4/15 job/hr. Time to finish the
+remaining 2/3 together = (2/3) ÷ (4/15) = (2/3)·(15/4) = 30/12 = 2.5
+hours. Total = 2 + 2.5 = **4.5 hours**.
+
+**6. Answer: 8.** Use Legendre's formula for the exponent of a prime p in
+n!: sum of floor(n/p), floor(n/p²), ... for 10! and p=2: floor(10/2) +
+floor(10/4) + floor(10/8) = 5 + 2 + 1 = **8**.
+
+**7. Answer: 33.** a₁=3 → a₂=2(3)−1=5 → a₃=2(5)−1=9 → a₄=2(9)−1=17 →
+a₅=2(17)−1=**33**. (Recursive sequence questions are pure execution —
+the only way to miss this is an arithmetic slip, so write out every step,
+don't try to shortcut it in your head.)
+
+**8. Answer: −1 ≤ x ≤ 6.** |2x−5| ≤ 7 means −7 ≤ 2x−5 ≤ 7. Add 5:
+−2 ≤ 2x ≤ 12. Divide by 2: **−1 ≤ x ≤ 6**.
+
+**9. Answer: 30.** At least one of French/Spanish = 150 − 20 = 130.
+French + Spanish − both = at least one, so 90 + 70 − both = 130, giving
+both = **30**.
+
+**10. Answer: 54π.** V = πr²h = 54π with r=3 → 9h = 54 → h = 6. Surface
+area = 2πr² + 2πrh = 2π(9) + 2π(3)(6) = 18π + 36π = **54π**. (Notice the
+surface area and volume come out to the same numeric coefficient here —
+that's a coincidence of these specific numbers, not a shortcut; always
+compute both from scratch.)
+
+**11. Answer: 8/15.** a/c = (a/b)·(b/c) = (2/3)·(4/5) = **8/15**.
+
+**12. Answer: 1.** 10³ = 1000 exactly, and every integer from 1 to 10
+cubed is ≤ 1000 (the largest, 10³, hits the boundary exactly and the
+condition is ≤, not <). Every value in the set satisfies the condition,
+so the probability is **1**. (This is a deliberate trap: it's tempting to
+assume a "probability" question must have a fractional answer and start
+hunting for exceptions that don't exist — read the condition and the
+range before assuming the question wants you to exclude anything.)
+
+### Scoring — Set 2
+10–12/12 under the 18-minute clock = genuinely Q165+ ready. 7–9 = the
+concepts are there but pace isn't — rerun this exact set in 3 days before
+moving to new material. Below 7 = at least one topic above (probability,
+counting, sequences, or the scaling-vs-shift distinction in #3) needs
+direct review, not just more timed reps.

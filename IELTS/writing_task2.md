@@ -77,3 +77,43 @@ question is still a weak answer).
   summarize your actual argument, or just restate the question?
 
 Log the band estimate and the single biggest flaw in `PROGRESS_LOG.md`.
+
+---
+
+## Set 2 — Abstract/Philosophical Prompts, 35-Minute Clock
+
+These prompts are deliberately more abstract than Set 1 — there's no
+concrete "traffic" or "museum fee" to anchor to, so you have to build
+your own specific, non-generic examples from scratch, which is exactly
+what separates Band 7 from Band 8+ at this level. The clock also drops
+from 40 to 35 minutes: 5 fewer minutes for planning, same word count
+floor (250), same rubric. If your band drops more than half a point
+against your Set 1 average, the cause is almost always a rushed thesis —
+spend the first 90 seconds only on planning, written down, before you
+write a single sentence of the essay itself.
+
+**Prompts:**
+
+1. Some people believe the pursuit of individual happiness has become
+   more important to people than contributing to society as a whole. To
+   what extent do you agree or disagree?
+2. Some argue that constant access to information through the internet
+   has made people less capable of independent, critical thought. To
+   what extent do you agree or disagree?
+3. Traditional markers of a "successful life" — a stable career, home
+   ownership, raising a family — are increasingly being replaced by more
+   individualistic definitions of a good life. Discuss the possible
+   causes of this shift and its effects on society.
+4. Some argue that a society's true measure of progress is how it treats
+   its most vulnerable members, not its average standard of living. To
+   what extent do you agree?
+5. It has been suggested that global problems such as climate change can
+   only be solved through international cooperation, not through
+   individual nations acting alone. Discuss both views and give your own
+   opinion.
+
+**Extra audit question for this set only:** Find the one sentence in
+your essay that is the *least* generic — the one that couldn't have been
+copied-and-pasted into a different essay on a different topic. If you
+can't find one, your examples weren't specific enough; that's the fix to
+make before your next attempt, not "use more advanced vocabulary."

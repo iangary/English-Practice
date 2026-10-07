@@ -4,6 +4,14 @@ Log every timed drill and every mock here. "I'll remember" is not a
 tracking system. Copy the row template and fill it in immediately after
 each session — scores decay in memory within hours.
 
+> **Coach's note:** every table below is still empty. That means no
+> baseline has been taken yet — which means every drill done so far,
+> however many hours it took, has produced zero data on whether it's
+> working. Stop and take the Week 0 baseline from `STUDY_PLAN.md` before
+> doing anything else. An untracked training camp is just unstructured
+> hours, and unstructured hours are what got you to "needing an intensive
+> program" in the first place.
+
 ## Baseline (Week 0)
 
 | Date | Exam/Section | Score/Band | Time taken | Notes |
