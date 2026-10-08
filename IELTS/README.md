@@ -32,5 +32,7 @@ than it uses rare words placed approximately right.
 
 - `writing_task2.md` — prompts, rubric, self-grading checklist, timed.
 - `reading_practice_01.md` — one full passage + 13 questions + answer key.
+- `listening_practice_01.md` — all 4 Section types (form completion, map/
+  notice, student discussion, academic lecture), 18 questions + answer key.
 - `speaking_cue_cards.md` — Part 2 cue cards + Part 3 follow-ups.
 - `vocabulary.md` — academic collocations and band-8 phrasing upgrades.
