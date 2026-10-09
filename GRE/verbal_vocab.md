@@ -65,3 +65,84 @@ isolation — it fails you on whether you correctly identified the
 sentence's **logical direction** (same-direction clue vs. contrast clue)
 before you even got to picking the word. Drill the logic in
 `text_completion_practice.md` using these words once you've learned them.
+
+---
+
+# Set 2 (30 words) — push-to-the-limit tier
+
+**These are lower-frequency than Set 1 but still appear regularly on the
+actual test.** If Set 1 felt comfortable, that's the baseline, not the
+finish line — don't log a Set 2 word as "known" until you've also used it
+correctly in an original sentence of your own, not just recognized it in
+the example given here.
+
+| Word | Part of speech | Definition | Example sentence |
+|---|---|---|---|
+| Perspicacious | adj. | having keen insight; shrewd | The **perspicacious** analyst spotted the accounting irregularity months before auditors did. |
+| Vitriolic | adj. | filled with bitter criticism or malice | The columnist's **vitriolic** review left no element of the film unmocked. |
+| Pellucid | adj. | transparently clear (literally or in expression) | Her **pellucid** explanation made the proof accessible even to first-year students. |
+| Obstreperous | adj. | noisy and difficult to control | The **obstreperous** crowd ignored repeated requests to quiet down. |
+| Pusillanimous | adj. | showing a lack of courage; cowardly | Critics called the policy a **pusillanimous** retreat from an earlier, bolder commitment. |
+| Equivocate | v. | to use ambiguous language to avoid committing to a position | Rather than answer directly, the spokesperson chose to **equivocate**. |
+| Profligate | adj. | recklessly wasteful, especially with money | The board criticized the former CEO's **profligate** spending on private jets. |
+| Punctilious | adj. | showing great attention to detail or correct behavior | The **punctilious** auditor flagged even minor formatting inconsistencies. |
+| Sycophant | n. | a person who flatters others to gain advantage | The court was full of **sycophants** eager to echo the king's every opinion. |
+| Tendentious | adj. | expressing a strong, biased point of view | The documentary was criticized as **tendentious**, presenting only evidence favoring its thesis. |
+| Umbrage | n. | offense or annoyance | She took **umbrage** at the implication that her work had been copied. |
+| Venerate | v. | to regard with great respect or reverence | The community continues to **venerate** the founder of the institution decades later. |
+| Wary | adj. | cautious about possible danger or trouble | Investors remained **wary** of the startup's unverified growth claims. |
+| Abrogate | v. | to formally abolish or repeal | The new administration moved quickly to **abrogate** the previous treaty. |
+| Capitulate | v. | to surrender or give up resistance | After months of pressure, the company **capitulated** and reversed its policy. |
+| Diffident | adj. | lacking confidence; shy | His **diffident** manner during the interview undersold his actual expertise. |
+| Expurgate | v. | to remove objectionable material from a text | The textbook publisher chose to **expurgate** several passages before the new edition. |
+| Fecund | adj. | highly fertile or productive (literally or figuratively) | The decade proved remarkably **fecund** for the research group, yielding a dozen major papers. |
+| Gregarious | adj. | fond of company; sociable | Her **gregarious** personality made her a natural fit for the client-facing role. |
+| Hegemony | n. | dominance of one group or state over others | Historians debate how long Roman **hegemony** over the Mediterranean actually lasted unchallenged. |
+| Impecunious | adj. | having little or no money | The **impecunious** playwright relied on patrons to fund each new production. |
+| Jejune | adj. | naive, simplistic, or lacking substance | Reviewers dismissed the op-ed's argument as **jejune**, ignoring decades of contrary evidence. |
+| Kinetic | adj. | relating to or resulting from motion | The sculpture's **kinetic** elements shift constantly as air currents move through the gallery. |
+| Loquacious | adj. | very talkative | The **loquacious** guide gave far more historical detail than the tour required. |
+| Mendacious | adj. | not telling the truth; lying | The report was later shown to rest on **mendacious** testimony from a key witness. |
+| Nefarious | adj. | wicked or criminal | The film's villain pursues a **nefarious** scheme to corner the city's water supply. |
+| Obdurate | adj. | stubbornly refusing to change one's mind | Despite overwhelming evidence, the committee chair remained **obdurate**. |
+| Placate | v. | to make someone less angry; appease | The airline offered vouchers in an attempt to **placate** the delayed passengers. |
+| Querulous | adj. | complaining in a whining manner | The **querulous** tone of the memo undermined its otherwise valid concerns. |
+| Rescind | v. | to revoke or cancel officially | The university **rescinded** the offer after discovering the falsified transcript. |
+
+## Drill: fill in the blank (cover the answer key below)
+
+1. Rather than give a straight answer, the minister chose to ______,
+   leaving reporters with nothing quotable.
+2. The new evidence was damning enough that even his staunchest allies
+   privately admitted his earlier testimony had been ______.
+3. Despite mounting criticism, the chairman remained ______, unwilling to
+   reconsider the decision even slightly.
+4. The committee's report was dismissed by opponents as ______, since it
+   cited only studies that supported its predetermined conclusion.
+5. The courtiers' constant praise marked them clearly as ______ rather
+   than honest advisors.
+
+### Answer key
+
+1. equivocate 2. mendacious 3. obdurate (recalcitrant from Set 1 also fits
+   — note both describe stubbornness, but "obdurate" specifically
+   emphasizes resistance to persuasion/argument) 4. tendentious
+5. sycophants
+
+## Set 1 vs. Set 2 — a distinction worth drilling on its own
+
+Several Set 2 words are commonly confused with Set 1 words that share a
+*rough* meaning but differ in connotation or precision — exactly the kind
+of distinction GRE Sentence Equivalence is built to test:
+
+- **Obdurate** vs. **recalcitrant** (Set 1): both mean stubborn, but
+  "obdurate" centers on refusing to be moved emotionally/morally,
+  "recalcitrant" centers on refusing to submit to authority or control.
+- **Diffident** vs. **laconic** (Set 1): "diffident" is about lacking
+  *confidence*; "laconic" is about using *few words* — a diffident person
+  may talk a lot nervously, and a laconic person may be supremely
+  confident. Don't conflate "quiet" with "shy."
+- **Mendacious** vs. **specious** (Set 1): "mendacious" means the speaker
+  knows it's false and lies anyway; "specious" means the claim merely
+  *appears* plausible but is wrong — specious reasoning can be sincerely,
+  not deceptively, mistaken.

@@ -113,3 +113,145 @@ your misses cluster on "detail" questions (go back and re-read more
 slowly, you're moving too fast) or "inference/function" questions (this
 is a reasoning gap, not a reading-speed gap — drill identifying the
 author's purpose in each paragraph before reading the questions).
+
+---
+
+# Passage 2 — push-to-the-limit tier (denser, more abstract argument)
+
+**Timer: 7 minutes — one minute less than Passage 1, and the passage is
+denser. This is intentional: real GRE passages at this length and
+abstraction level need to be read faster, not slower, than a long
+narrative passage, because the questions reward tracking the argument's
+logical moves more than any specific fact.**
+
+## Passage
+
+A longstanding assumption in the philosophy of science holds that
+scientific progress proceeds primarily through the accumulation of
+confirmed hypotheses: a theory is tested, survives repeated attempts at
+falsification, and is provisionally accepted until superseded by a better
+one. This model, most closely associated with Karl Popper's emphasis on
+falsifiability as the demarcation criterion between science and
+non-science, implies that scientific knowledge grows in a broadly
+continuous, cumulative fashion, with earlier theories serving as
+stepping stones toward more accurate successors.
+
+Thomas Kuhn's influential critique complicated this picture
+considerably. Kuhn argued that scientific fields do not progress smoothly
+but rather alternate between extended periods of "normal science," in
+which researchers work within an unquestioned theoretical framework—a
+paradigm—solving puzzles the paradigm itself defines as worth solving,
+and comparatively rare episodes of revolutionary upheaval, in which an
+accumulation of anomalies the existing paradigm cannot explain eventually
+precipitates a wholesale replacement of that paradigm with an
+incompatible successor. Crucially, Kuhn maintained that successive
+paradigms are frequently "incommensurable": not merely different
+theories about the same stable set of problems, but frameworks that
+redefine which problems are worth asking in the first place, such that
+researchers operating under different paradigms may be unable to fully
+translate each other's claims or agree on what would even count as
+evidence.
+
+This incommensurability thesis proved to be the most contested element of
+Kuhn's account. Critics objected that if successive paradigms were truly
+incommensurable in the strong sense Kuhn sometimes seemed to suggest,
+scientific progress would become difficult to defend at all: one could
+not claim that a later paradigm was simply *better* than an earlier one,
+only that it was *different*, since any standard used to judge
+"betterness" would itself presumably be paradigm-relative. Kuhn, in later
+work, sought to soften this implication, clarifying that he had not meant
+to suggest that paradigm shifts were arbitrary or that no rational
+grounds for preferring one paradigm existed, but rather that such
+grounds could not be reduced to a single, paradigm-independent algorithm
+of the sort logical positivists had hoped to specify.
+
+Contemporary philosophy of science has largely moved past treating
+Popper's and Kuhn's models as strictly incompatible alternatives between
+which one must choose. Many historians and philosophers now argue that
+the two models describe different timescales and levels of description
+rather than competing descriptions of the same phenomenon: Popperian
+falsification plausibly captures much of the day-to-day testing of
+specific hypotheses within an accepted framework, while Kuhnian paradigm
+shifts capture the comparatively rarer, larger-scale reorganizations of
+the framework itself within which that day-to-day testing occurs. On
+this reading, the two accounts are not rivals but descriptions pitched at
+different structural levels of the same overall process, a reconciliation
+that has itself become a kind of normal science within the philosophy of
+science.
+
+## Questions
+
+**1. Main idea:** The primary purpose of the passage is to
+(A) prove that Kuhn's account of scientific progress is entirely correct
+    and Popper's is mistaken
+(B) describe a historical debate about scientific progress and a
+    contemporary attempt to reconcile its two major positions
+(C) argue that scientific progress does not actually occur
+(D) demonstrate that logical positivism successfully specified an
+    algorithm for theory choice
+
+**2. Detail:** According to the passage, Popper's model implies that
+scientific knowledge grows
+(A) through sudden, incommensurable revolutions only
+(B) in a broadly continuous, cumulative fashion via tested hypotheses
+(C) without any role for falsification
+(D) only within the confines of a single unchanging paradigm
+
+**3. Detail:** According to the passage, what did critics argue would
+follow if paradigms were truly incommensurable in the strong sense?
+(A) Science would progress more quickly
+(B) It would become difficult to claim a later paradigm is better,
+    rather than merely different, than an earlier one
+(C) Normal science would become impossible
+(D) Falsification would become the only valid scientific method
+
+**4. Function:** Why does the passage mention that Kuhn "sought to soften
+this implication" in later work?
+(A) To show that Kuhn ultimately agreed entirely with his critics
+(B) To indicate that Kuhn clarified he did not consider paradigm shifts
+    arbitrary, in response to a specific criticism just described
+(C) To argue that Kuhn's later work should be disregarded
+(D) To introduce an entirely new, unrelated theory
+
+**5. Inference:** It can be inferred that "normal science," as Kuhn uses
+the term, refers to
+(A) research that occurs during paradigm shifts specifically
+(B) puzzle-solving research conducted within an accepted, unquestioned
+    theoretical framework
+(C) any research that uses the scientific method correctly
+(D) research that contemporary philosophers consider outdated
+
+**6. Tone/rhetorical strategy:** The final paragraph's characterization of
+the Popper/Kuhn reconciliation as "itself become a kind of normal
+science within the philosophy of science" functions primarily to
+(A) criticize contemporary philosophers for lacking original ideas
+(B) draw an ironic, self-referential parallel using Kuhn's own
+    terminology to describe the current state of the debate
+(C) argue that philosophy of science is not a real science
+(D) suggest that the reconciliation itself will soon be overturned by a
+    revolutionary shift
+
+**7. Which of the following, if true, would most directly support the
+"different timescales" reconciliation described in the final paragraph?**
+(A) Evidence that scientists never test specific hypotheses within an
+    accepted framework
+(B) Evidence that day-to-day hypothesis testing and rare large-scale
+    framework changes operate according to observably different
+    dynamics and timescales in the history of science
+(C) Evidence that Popper and Kuhn never read each other's work
+(D) Evidence that all scientific revolutions happen at the same rate as
+    routine hypothesis testing
+
+## Answer Key
+
+1. **B** 2. **B** 3. **B** 4. **B** 5. **B** 6. **B** 7. **B**
+
+### Scoring
+6–7/7 = strong V165+ pace on abstract/philosophical passages specifically
+(a historically weaker area for many high scorers who are stronger on
+concrete/scientific passages) · 5/7 = solid · below 5: this passage type
+(abstract argument about arguments) rewards re-reading paragraph 3
+specifically before answering — note whether you tracked *whose* claim
+each sentence belongs to (the original theorist, a critic, or the
+author's own synthesis), since losing track of attribution is the most
+common failure mode on philosophy-of-science-style RC passages.

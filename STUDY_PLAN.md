@@ -18,11 +18,21 @@ meaningless.
   drilled both directions (word→meaning, meaning→word).
 - **Mon/Wed/Fri:** One IELTS Writing Task 2 essay, 40 minutes, no outline
   prepared in advance. Self-grade against `IELTS/writing_task2.md`'s rubric.
+  Alternate every other Friday with a 20-minute IELTS Writing Task 1 from
+  `IELTS/writing_task1.md` — people routinely neglect Task 1 since it
+  "only" counts for a third of the Writing band, which is exactly why it's
+  a cheap place to lose points you didn't need to.
 - **Tue/Thu:** One GRE Text Completion set + one Reading Comprehension
   passage, both timed, from `GRE/text_completion_practice.md` and
   `GRE/reading_comprehension_practice.md`.
 - **Sat:** TOEFL Independent + Integrated Writing, back to back, full time
   pressure (30 min + 20 min), from `TOEFL/writing_tasks.md`.
+- **Daily, 15 min, non-negotiable:** One IELTS or TOEFL Listening set
+  (alternate), from `IELTS/listening_practice_01.md` /
+  `TOEFL/listening_practice_01.md`. This is the section people drop first
+  under time pressure and the one that recovers slowest once neglected —
+  it does not get a lighter schedule just because it's inconvenient to
+  self-administer without real audio equipment.
 - **Weekly mock:** One full IELTS Academic Reading passage set, strictly
   timed to 20 minutes including transfer of answers.
 
@@ -34,6 +44,10 @@ meaningless.
 - Add GRE Quant drills (`GRE/quant_drills.md`) 4x/week, strictly timed
   (1:45/question average, no calculator use beyond what the real test
   allows).
+- Once you can score 25+/30 on GRE Vocab Set 1 both directions two days
+  running, move to Set 2 in the same file — it's deliberately
+  lower-frequency and harder, and staying on Set 1 past mastery is just
+  comfortable repetition, not progress.
 - Add IELTS/TOEFL Speaking: record yourself answering 3 cue
   cards/prompts per session, play it back, transcribe your own filler
   words (really) and count them.

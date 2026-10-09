@@ -146,3 +146,141 @@ knowing the method and reliably getting the point under time pressure.
 "careless" (knew the method, slipped on execution — drill verification
 habits) vs. "conceptual" (didn't know the approach — review that specific
 topic) in `PROGRESS_LOG.md`. These need entirely different fixes.
+
+---
+
+# Set 2 — push-to-the-limit tier (data interpretation + harder traps)
+
+**Timer: 24 minutes for this set of 12 — tighter than Set 1's pace,
+because at the 165+ level you need margin banked for the genuinely hard
+questions every section includes.** This set leans harder into
+multi-step problems and a data interpretation table, which the real test
+always includes at least one of per section.
+
+## Data Interpretation (Questions 1–4 refer to the table below)
+
+**Annual R&D spending by division, Company X ($ millions)**
+
+| Division | 2020 | 2021 | 2022 | 2023 |
+|---|---|---|---|---|
+| Hardware | 40 | 45 | 50 | 48 |
+| Software | 30 | 42 | 55 | 70 |
+| Biotech | 15 | 18 | 20 | 33 |
+
+**1.** In which year did total R&D spending across all three divisions
+first exceed $140 million?
+
+**2.** What was the approximate percent increase in Software division
+spending from 2020 to 2023?
+
+**3.** In 2022, Biotech spending was approximately what fraction of
+Hardware spending?
+
+**4.** If Biotech spending continues to grow by the same **dollar amount**
+each year as it did from 2022 to 2023, what would Biotech spending be in
+2024?
+
+## Quantitative Comparison
+
+**5.** x and y are integers, and 2x + 3y = 12.
+
+Quantity A: x
+Quantity B: y
+
+**6.** Set T consists of all multiples of 6 between 1 and 100, inclusive.
+
+Quantity A: The number of terms in set T
+Quantity B: 17
+
+**7.** A right circular cylinder has a volume of 150π. Its height is 6.
+
+Quantity A: The radius of the cylinder
+Quantity B: 5
+
+## Problem Solving
+
+**8.** A project is completed by Worker A alone in 12 days and by Worker B
+alone in 18 days. If they work together, how many days will it take them
+to complete the project?
+
+**9.** A box contains 4 red, 3 green, and 5 blue marbles. Two marbles are
+drawn at random without replacement. What is the probability that both
+are the same color?
+
+**10.** The function f is defined by f(x) = x² − 4x + 7. For what value of
+x is f(x) at its minimum?
+
+**11.** A number is chosen at random from the integers 1 through 50,
+inclusive. What is the probability that the number is divisible by
+neither 3 nor 5?
+
+**12.** A rectangle's length is increased by 20% and its width is
+decreased by 25%. By what percent does its area change?
+
+---
+
+## Worked Solutions
+
+**1. Answer: 2022.** Totals: 2020 = 40+30+15 = 85. 2021 = 45+42+18 = 105.
+2022 = 50+55+20 = 125. 2023 = 48+70+33 = 151. The first year the total
+exceeds $140 million is **2023**, not 2022 — this is a deliberate trap:
+2022's total (125) is still under 140. (If you answered 2022, you likely
+estimated instead of adding carefully — exactly the habit this set is
+designed to catch.)
+
+**2. Answer: approximately 133%.** Software: 30 → 70. Increase = 40.
+Percent increase = 40/30 ≈ 1.333 = **~133%** (not 40%, which would be the
+increase expressed as a fraction of the *final* value instead of the
+*original* — always divide by the starting value for percent increase).
+
+**3. Answer: approximately 2/5.** 2022: Biotech = 20, Hardware = 50.
+20/50 = 2/5 = 0.4.
+
+**4. Answer: $46 million.** Biotech grew from 20 (2022) to 33 (2023), a
+$13 million increase. Continuing that same *dollar* increase: 33 + 13 =
+**46**. (Trap: don't apply the percent growth rate instead of the dollar
+growth — the question specifically asks for the same dollar amount.)
+
+**5. Answer: (D).** Try x=0, y=4 → (0,4): B>A. Try x=6, y=0 → (6,0): A>B.
+Both are valid integer solutions to 2x+3y=12, so the relationship cannot
+be determined.
+
+**6. Answer: (B).** Multiples of 6 from 1–100: 6,12,...,96. Count =
+96/6 = 16. Quantity A = 16, Quantity B = 17, so **B is greater**. (The
+trap: it's easy to compute "16" and, since that's close to 17, carelessly
+mark (C) or misremember which side is which — always restate which
+quantity is larger before selecting an answer, don't just compute A and
+stop.)
+
+**7. Answer: (C).** Volume = πr²h → 150π = πr²(6) → r² = 25 → r = 5
+(radius must be positive). Quantity A = 5 = Quantity B. They're equal.
+
+**8. Answer: 7.2 days.** Combined rate = 1/12 + 1/18 = 3/36 + 2/36 =
+5/36 of the project per day. Time = 36/5 = **7.2 days**.
+
+**9. Answer: 19/66.** Total marbles = 12, total ways to choose 2 =
+C(12,2) = 66. Same color ways: red C(4,2)=6, green C(3,2)=3, blue
+C(5,2)=10. Total favorable = 6+3+10 = 19. Probability = **19/66**.
+
+**10. Answer: x = 2.** f(x) = x² − 4x + 7 is a upward parabola; minimum
+at x = −b/(2a) = −(−4)/(2·1) = 2. (Plug back in: f(2) = 4−8+7 = 3, the
+minimum value, confirming the vertex calculation.)
+
+**11. Answer: 27/50.** Divisible by 3: 16 numbers (3,6,...,48). Divisible
+by 5: 10 numbers (5,10,...,50). Divisible by both 3 and 5 (i.e., by 15):
+3 numbers (15,30,45). Divisible by 3 or 5 = 16+10−3 = 23. Neither = 50−23
+= **27**. Probability = 27/50.
+
+**12. Answer: decreases by 10%.** Let original length = L, width = W,
+area = LW. New area = (1.20L)(0.75W) = 0.90LW. That's a **10% decrease**.
+(Trap: a 20% increase and a 25% decrease do NOT average to a 2.5%
+decrease — multiply the factors, exactly as in Set 1's markup/discount
+problem. If you keep hitting this same trap across sets, that's a
+recurring-mistake entry for `PROGRESS_LOG.md`, not a one-off.)
+
+### Scoring
+10–12/12 = Q165+ with margin to spare · 8–9 = Q160–164 ·
+below 8: specifically check whether you missed Q1 or Q6 — both are
+"did you finish the comparison / finish the addition" traps rather than
+conceptual gaps, and missing either one is a speed/verification problem,
+not a math-knowledge problem.
