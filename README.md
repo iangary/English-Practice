@@ -13,6 +13,7 @@ file doesn't have a timer attached to it, it's not a drill, it's trivia.
 |---|---|
 | `STUDY_PLAN.md` | The 10-week schedule. Start here. |
 | `PROGRESS_LOG.md` | Your scorecard. Fill it in after every drill — no exceptions. |
+| `COACH_LOG.md` | Dated coach check-ins against `PROGRESS_LOG.md`. Read the latest entry first. |
 | `IELTS/` | Writing Task 2, Academic Reading, Speaking cue cards, vocabulary |
 | `TOEFL/` | Independent + Integrated Writing, Reading, Speaking tasks |
 | `GRE/` | Verbal vocab, Text Completion, Reading Comprehension, Quant drills, AWA |
