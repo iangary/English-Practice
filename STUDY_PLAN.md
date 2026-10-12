@@ -23,6 +23,11 @@ meaningless.
   `GRE/reading_comprehension_practice.md`.
 - **Sat:** TOEFL Independent + Integrated Writing, back to back, full time
   pressure (30 min + 20 min), from `TOEFL/writing_tasks.md`.
+- **Daily, 10–15 min:** One IELTS or TOEFL Listening single-pass drill
+  (`IELTS/listening_practice_01.md` / `TOEFL/listening_practice_01.md`),
+  alternating exams by day. Do not skip this in favor of
+  reading/writing — Listening is graded equally and is the section most
+  people quietly under-practice because it "feels passive."
 - **Weekly mock:** One full IELTS Academic Reading passage set, strictly
   timed to 20 minutes including transfer of answers.
 
@@ -37,6 +42,9 @@ meaningless.
 - Add IELTS/TOEFL Speaking: record yourself answering 3 cue
   cards/prompts per session, play it back, transcribe your own filler
   words (really) and count them.
+- Add IELTS Writing Task 1 (`IELTS/writing_task1.md`) 2x/week, 20 minutes
+  strict — drill the overview sentence in isolation first if you're still
+  missing it under time pressure.
 - **Weekly mock:** Full TOEFL Reading section (3 passages, 54 minutes).
 
 ## Weeks 5–6 — Stress-test weaknesses
