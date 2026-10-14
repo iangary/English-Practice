@@ -130,3 +130,93 @@ tied to what they said), and contributes your own reasoned position.
 
 Log your self-estimated score (0–30 equivalent) and the single biggest
 gap in `PROGRESS_LOG.md`.
+
+---
+
+## Round 2 — Harder sets (do these once Set 1 is logged and scored)
+
+### Integrated Writing — Set 2
+
+**Protocol:** identical to Set 1 — read the passage once (3 min), read
+the lecture once, write for the rest of 20 minutes. This passage has
+**three** reading points instead of a cleanly matched three vs. three —
+part of the difficulty here is noticing that the lecture only directly
+challenges two of the three reading points and barely touches the third,
+which is itself a trap: don't force a connection that isn't there.
+
+**Reading passage:**
+
+> Many universities have begun replacing printed textbooks with digital
+> course materials delivered through tablets or laptops. Advocates cite
+> three benefits. First, digital materials are significantly cheaper for
+> students once the initial device cost is paid, since publishers can
+> distribute updates without reprinting. Second, digital textbooks allow
+> instant search, highlighting, and cross-referencing, which advocates
+> say improves study efficiency. Third, digital materials reduce the
+> environmental impact associated with paper production and textbook
+> shipping.
+
+**Lecture transcript (simulated professor, read once):**
+
+> "A few of these claims hold up better than others. Take the cost
+> argument: multiple studies tracking actual student spending found that
+> once you factor in the device itself, required charging accessories,
+> and the fact that many digital platforms charge recurring subscription
+> fees rather than a one-time purchase, total costs over a four-year
+> degree were often comparable to, or even higher than, buying used
+> physical textbooks. On the search and highlighting point, that one's
+> genuinely borne out — multiple studies do show measurable time savings
+> for students doing research-heavy assignments using searchable digital
+> text, so I won't dispute that one. As for the environmental argument, I
+> haven't seen compelling lifecycle data either way — manufacturing and
+> disposing of electronic devices has its own significant environmental
+> footprint, and nobody's done the full comparison rigorously yet, so I'd
+> be cautious drawing a firm conclusion there in either direction."
+
+**Your task:** Write a 150–225 word summary explaining the relationship
+between the lecture and the three reading points — including correctly
+identifying that the lecture **disputes** the cost claim, **supports**
+(does not challenge) the efficiency claim, and takes **no firm position**
+on the environmental claim. Getting all three relationships right matters
+more here than in Set 1, where the lecture challenged everything.
+
+### Academic Discussion — Set 2
+
+**Protocol:** same as before — 10 minutes, 100–150 words, engage with a
+specific point from at least one classmate.
+
+> **Professor:** This week we're discussing whether universities should
+> require all students, regardless of major, to take at least one course
+> in data literacy or basic statistics. Share your view.
+>
+> **Student A (Priya):** I think it should be required. So much public
+> discourse now involves misleading statistics — graphs with manipulated
+> axes, confusing correlation with causation — and a single required
+> course would give every graduate, not just STEM majors, some defense
+> against that regardless of their field.
+>
+> **Student B (Tomas):** I see the value, but I'd push back on "required
+> for everyone." Requirements already crowd out electives that let
+> students explore their actual interests, and a single mandatory course
+> rarely changes real-world habits unless it's reinforced elsewhere in
+> the curriculum. A better approach might be weaving basic data literacy
+> into existing required courses rather than adding a new one.
+
+**Your task:** Write a response that directly engages a specific claim
+from Priya or Tomas (for example, Tomas's point about requirements
+crowding out electives, or Priya's point about public discourse), and
+stake out your own reasoned position rather than simply agreeing with
+both.
+
+### Round 2 self-audit
+
+- Integrated: did you correctly identify which reading points the
+  lecture actually challenges, versus confirms, versus stays neutral on?
+  Forcing all three into "the lecture disagrees" is the single most
+  common error on this harder item type.
+- Discussion: did your response add a genuinely new angle or piece of
+  reasoning, or does it just restate Priya's or Tomas's point in your own
+  words with "I agree" attached? The latter scores as thin regardless of
+  grammar.
+
+Log these as a separate "Round 2" entry in `PROGRESS_LOG.md`.

@@ -146,3 +146,132 @@ knowing the method and reliably getting the point under time pressure.
 "careless" (knew the method, slipped on execution — drill verification
 habits) vs. "conceptual" (didn't know the approach — review that specific
 topic) in `PROGRESS_LOG.md`. These need entirely different fixes.
+
+---
+
+## Set 2 — Higher Difficulty
+
+**Timer: 1:30/question — tighter than Set 1. 12 questions, 18 minutes
+total, hard stop. This set assumes Set 1 is already comfortable; if you
+scored below 9/12 on Set 1, redo Set 1 before attempting this one — more
+time pressure on shaky fundamentals just trains panic, not skill.**
+
+### Quantitative Comparison
+
+**1.** x and y are positive integers and x^y = y^x, with x ≠ y.
+
+Quantity A: x + y
+Quantity B: 6
+
+**2.** Set T consists of the first 10 positive multiples of 6.
+
+Quantity A: The median of Set T
+Quantity B: The average (arithmetic mean) of Set T
+
+**3.** 0 < r < 1 < s
+
+Quantity A: r/s
+Quantity B: s/r
+
+### Problem Solving
+
+**4.** A cylindrical tank with radius 3 and height 10 is filled with
+water. The water is then poured, without loss, into a second cylindrical
+tank with radius 5. To the nearest tenth, what is the height of the
+water in the second tank?
+
+**5.** In a certain office, the ratio of managers to employees is 2:9.
+If 4 managers and 6 employees are added, the new ratio of managers to
+employees becomes 1:3. How many managers were originally in the office?
+
+**6.** How many integers between 1 and 500, inclusive, are divisible by
+either 6 or 8 (or both)?
+
+**7.** A committee of 4 people is to be chosen from a group of 6 men and
+5 women. What is the probability that the committee includes exactly 2
+men and 2 women?
+
+**8.** The function f is defined by f(x) = x² − 6x + k, where k is a
+constant. If f has exactly one real root, what is the value of k?
+
+**9.** A merchant buys an item for $80 and wants a profit of 25% on the
+*selling* price (not the cost). What selling price should she set?
+
+**10.** Data set S has a standard deviation of 4 and a mean of 50. If
+every value in S is multiplied by 3 and then increased by 5, what is the
+new standard deviation?
+
+**11.** Working alone, Pump A can fill a tank in 6 hours; Pump B can fill
+the same tank in 4 hours. Both pumps start together, but Pump A is shut
+off after 2 hours. How much additional time does Pump B need, working
+alone, to finish filling the tank?
+
+**12.** If n is a positive integer and n! has exactly 2 trailing zeros,
+what is the smallest possible value of n?
+
+---
+
+## Set 2 — Worked Solutions
+
+**1. Answer: (C).** The only positive integers with x ≠ y satisfying
+x^y = y^x are {x, y} = {2, 4} (2^4 = 4^2 = 16). So x + y = 6 always,
+meaning Quantity A equals 6 — the same as Quantity B. (This is a classic
+GRE trap: test-takers assume "the relationship can't be determined" or
+guess "greater than" without actually hunting for the unique case that
+satisfies an unusual equation like this.)
+
+**2. Answer: (C).** Set T = {6,12,18,24,30,36,42,48,54,60}. It's evenly
+spaced, so median = mean = 33 for any evenly spaced set with an even
+number of terms (average of the two middle terms (30+36)/2 = 33; mean =
+sum/10 = 330/10 = 33). Equal.
+
+**3. Answer: (B).** Since 0 < r < 1 < s, r/s is a fraction less than 1
+(small number divided by a bigger number), while s/r is greater than 1
+(big number divided by a smaller fraction). So s/r > r/s always.
+
+**4. Answer: 3.6.** Volume is conserved: π(3)²(10) = π(5)²(h) → 90 = 25h
+→ h = 3.6.
+
+**5. Answer: 4 managers.** Let managers = 2k, employees = 9k. After
+adding 4 managers and 6 employees: (2k+4)/(9k+6) = 1/3 → 3(2k+4) = 9k+6
+→ 6k+12 = 9k+6 → 6 = 3k → k = 2. Original managers = 2k = 4. Check:
+original employees = 9(2) = 18; after adding, managers = 8, employees =
+24, ratio 8:24 = 1:3 ✓.
+
+**6. Answer: 125.** Multiples of 6 up to 500: ⌊500/6⌋ = 83 (6×83=498).
+Multiples of 8: ⌊500/8⌋ = 62 (8×62=496). Multiples of both, i.e. of
+lcm(6,8)=24: ⌊500/24⌋ = 20 (24×20=480, 24×21=504 is too big). By
+inclusion-exclusion: 83 + 62 − 20 = 125.
+
+**7. Answer: 5/11.** Total committees of 4 from 11 people: C(11,4) =
+330. Committees with exactly 2 men and 2 women: C(6,2)×C(5,2) = 15×10 =
+150. Probability = 150/330 = 5/11.
+
+**8. Answer: k = 9.** Exactly one real root means the discriminant is 0:
+(−6)² − 4(1)(k) = 0 → 36 − 4k = 0 → k = 9.
+
+**9. Answer: $106.67 (to the nearest cent, $320/3).** "25% profit on
+selling price" means cost = 75% of selling price: 80 = 0.75 × SP → SP =
+80/0.75 = 106.666... This is the classic trap distinguishing margin
+(percent of selling price) from markup (percent of cost) — read which
+one the question specifies every time.
+
+**10. Answer: 12.** Multiplying every value by a constant c scales the
+standard deviation by |c|; adding a constant shifts the mean but does not
+change the spread. New SD = 4 × 3 = 12 (the "+5" is a distractor with
+zero effect on standard deviation).
+
+**11. Answer: 2/3 hour (40 minutes).** Pump A's rate = 1/6 tank/hr,
+Pump B's rate = 1/4 tank/hr. In 2 hours together: 2(1/6 + 1/4) =
+2(5/12) = 5/6 of the tank filled. Remaining = 1/6. Pump B alone needs
+(1/6)/(1/4) = 4/6 = 2/3 hour to finish.
+
+**12. Answer: n = 10.** Trailing zeros in n! come from factors of 5 (5s
+are scarcer than 2s). 9! has one factor of 5 (from 5), giving 1 trailing
+zero. 10! adds another factor of 5 (from 10 = 2×5), giving 2 trailing
+zeros. So n = 10 is the smallest value with exactly 2 trailing zeros.
+
+### Scoring
+10–12/12 at 1:30/question = genuine Q165+ pace. Below that, the issue is
+very likely speed, not knowledge — redo Set 1 untimed first to confirm
+you actually know every method, then retime Set 1, then come back here.
