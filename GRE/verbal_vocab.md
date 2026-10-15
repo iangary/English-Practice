@@ -65,3 +65,63 @@ isolation — it fails you on whether you correctly identified the
 sentence's **logical direction** (same-direction clue vs. contrast clue)
 before you even got to picking the word. Drill the logic in
 `text_completion_practice.md` using these words once you've learned them.
+
+---
+
+# Set 2 (30 words) — harder tier
+
+**Gate:** do not start Set 2 until every Set 1 word has a "Mastered on"
+date in `PROGRESS_LOG.md`. Vocabulary that isn't solid doesn't get to
+hide behind new vocabulary — that's how people arrive at the real exam
+knowing 200 words shakily instead of 150 words cold.
+
+| Word | Part of speech | Definition | Example sentence |
+|---|---|---|---|
+| Apostate | n. | one who abandons their religion, party, or cause | The party treated his defection as the betrayal of an **apostate**. |
+| Bowdlerize | v. | to remove indelicate material from a text, often excessively | The schoolbook edition **bowdlerized** the novel's darker chapters beyond recognition. |
+| Chicanery | n. | deception by trickery or sophistry | Voters grew suspicious of the campaign's **chicanery**. |
+| Diffident | adj. | modest or shy due to lack of self-confidence | His **diffident** manner in meetings masked genuinely sharp ideas. |
+| Enervating | adj. | causing weakness or loss of energy | The **enervating** humidity left the crew unable to work past noon. |
+| Fulminate | v. | to loudly protest or criticize | The columnist **fulminated** against the proposed tax for three straight weeks. |
+| Gainsay | v. | to deny or contradict | No one in the room dared **gainsay** the chairman's figures. |
+| Hegemony | n. | dominance of one group or state over others | Historians debate how long American economic **hegemony** will persist. |
+| Impecunious | adj. | having little or no money | The **impecunious** artist survived on commissions from friends. |
+| Jejune | adj. | naive, simplistic, or shallow; also, dull | Critics dismissed the script's politics as **jejune**. |
+| Knell | n. | the sound of a bell signaling death or an ending | The factory's closure rang a **knell** for the town's economy. |
+| Lugubrious | adj. | looking or sounding sad and dismal | The **lugubrious** violin solo matched the film's bleak final act. |
+| Mendacious | adj. | not telling the truth; lying | The investigation exposed the executive's **mendacious** testimony. |
+| Nonplussed | adj. | so surprised or confused that one doesn't know how to react | She was **nonplussed** when the interviewer asked about a job she'd never applied for. |
+| Obstreperous | adj. | noisy and difficult to control | The **obstreperous** crowd ignored every request to quiet down. |
+| Perfunctory | adj. | done as a routine, with little care or interest | His **perfunctory** apology convinced no one he meant it. |
+| Querulous | adj. | complaining in a whining manner | The **querulous** passenger complained about every minor delay. |
+| Reticent | adj. | not revealing thoughts or feelings readily | He stayed **reticent** about his reasons for leaving the firm. |
+| Sagacious | adj. | having or showing keen judgment | The board valued her **sagacious** read of the market long before the crash. |
+| Timorous | adj. | showing or suffering from fear; timid | A **timorous** first draft rarely survives contact with a tough editor. |
+| Unctuous | adj. | excessively flattering or ingratiating | The **unctuous** salesman's compliments made the customer suspicious. |
+| Vilify | v. | to speak or write about in an abusively disparaging manner | The press **vilified** the referee after the controversial call. |
+| Welter | n. | a confused mass or jumble | Investigators faced a **welter** of conflicting witness statements. |
+| Xenophobe | n. | a person with an intense dislike of foreigners | The candidate's rhetoric drew accusations of appealing to **xenophobes**. |
+| Yoke | v. | to link or join, often restrictively | The merger **yoked** two incompatible corporate cultures together overnight. |
+| Zephyr | n. | a gentle, mild breeze | A cool **zephyr** off the lake was the only relief from the heat. |
+| Abeyance | n. | a state of temporary suspension | The lawsuit was held in **abeyance** pending the appeal. |
+| Circumlocution | n. | an indirect way of speaking; talking around a point | His answer was pure **circumlocution** — three minutes without a single fact. |
+| Dilettante | n. | a person with a superficial interest in an art or field | Serious collectors dismissed him as a **dilettante**. |
+| Equivocate | v. | to use ambiguous language to avoid committing to a position | The spokesperson **equivocated** for ten minutes without answering the question. |
+
+## Drill: fill in the blank (cover the answer key below)
+
+1. His answer was all ______ — technically words, but not a single
+   fact in three full minutes.
+2. The board trusted her ______ judgment on markets most analysts
+   misread completely.
+3. The merger ______ two companies whose cultures never actually fit.
+4. Reporters grew tired of his ______ complaints about minor scheduling
+   changes.
+5. The case was placed in ______ until the appeal concluded.
+
+### Answer key
+1. circumlocution
+2. sagacious
+3. yoked
+4. querulous
+5. abeyance
