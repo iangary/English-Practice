@@ -31,6 +31,9 @@ than it uses rare words placed approximately right.
 ## Files here
 
 - `writing_task2.md` — prompts, rubric, self-grading checklist, timed.
+- `writing_task1.md` — line graph/bar chart/process/map prompts, rubric, timed.
 - `reading_practice_01.md` — one full passage + 13 questions + answer key.
+- `listening_practice_01.md` — transcript-based note-taking + question-type
+  drill (Sections 1, 3, 4). Supplements, does not replace, real audio practice.
 - `speaking_cue_cards.md` — Part 2 cue cards + Part 3 follow-ups.
 - `vocabulary.md` — academic collocations and band-8 phrasing upgrades.
