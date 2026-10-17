@@ -4,6 +4,16 @@ Assume 90–120 minutes/day, 6 days/week. If you have less time, cut volume,
 never cut the timer and never cut the weekly mock. Rest day is day 7, and
 even then you owe 20 minutes of vocab.
 
+> **Coach's note (Day 16 check):** This plan was built 16 days ago and
+> `PROGRESS_LOG.md` is still completely blank — not even the Week 0
+> baseline is logged. That means every day since has been spent
+> "around" the plan, not on it, which Week 0's own instructions call out
+> as making all later numbers meaningless. This is not a scheduling
+> problem, it's a starting problem. Fix it today: don't resume at
+> "wherever Week 0 should be by the calendar" — take the baseline mocks
+> now, log them, and start Week 1 from that real date, not the
+> original one. A late honest start beats an on-time fake one.
+
 ## Week 0 — Baseline (do this before anything else)
 
 Take one full timed mock of each exam's weakest-for-you section this week
