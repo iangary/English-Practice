@@ -4,6 +4,15 @@ Log every timed drill and every mock here. "I'll remember" is not a
 tracking system. Copy the row template and fill it in immediately after
 each session — scores decay in memory within hours.
 
+> **Coach's note:** every table below is still empty. That means no
+> baseline has been logged, which means none of the Set 2 material just
+> added (harder vocab, quant, reading, writing — see each folder's
+> README) has a floor to be measured against. Harder drills without a
+> baseline just feel hard; they don't tell you if you're improving.
+> Before touching Set 2 anywhere: do the Week 0 baseline in
+> `STUDY_PLAN.md` and log it in the table below. That's the next action,
+> not "more material."
+
 ## Baseline (Week 0)
 
 | Date | Exam/Section | Score/Band | Time taken | Notes |

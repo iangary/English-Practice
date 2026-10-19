@@ -31,6 +31,8 @@ than it uses rare words placed approximately right.
 ## Files here
 
 - `writing_task2.md` — prompts, rubric, self-grading checklist, timed.
+- `writing_task2_set2.md` — Band 8–9 calibrated prompts and rubric, 35
+  minutes instead of 40. Do this once Set 1 is averaging Band 7+.
 - `reading_practice_01.md` — one full passage + 13 questions + answer key.
 - `speaking_cue_cards.md` — Part 2 cue cards + Part 3 follow-ups.
 - `vocabulary.md` — academic collocations and band-8 phrasing upgrades.

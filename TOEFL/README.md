@@ -32,5 +32,8 @@ IELTS's half-band system, which rewards grinding.
 ## Files here
 
 - `writing_tasks.md` — Integrated + Academic Discussion prompts, timed.
+- `integrated_writing_set2.md` — harder Integrated task where the
+  lecture reframes/partially agrees with the reading instead of flatly
+  contradicting it — drills precision over pattern-matching.
 - `reading_practice_01.md` — one passage + 10 questions + answer key.
 - `speaking_tasks.md` — all 4 task types with timing and self-grading.

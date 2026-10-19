@@ -13,9 +13,16 @@ file doesn't have a timer attached to it, it's not a drill, it's trivia.
 |---|---|
 | `STUDY_PLAN.md` | The 10-week schedule. Start here. |
 | `PROGRESS_LOG.md` | Your scorecard. Fill it in after every drill — no exceptions. |
-| `IELTS/` | Writing Task 2, Academic Reading, Speaking cue cards, vocabulary |
-| `TOEFL/` | Independent + Integrated Writing, Reading, Speaking tasks |
-| `GRE/` | Verbal vocab, Text Completion, Reading Comprehension, Quant drills, AWA |
+| `IELTS/` | Writing Task 2 (Set 1 + harder Set 2), Academic Reading, Speaking cue cards, vocabulary |
+| `TOEFL/` | Independent + Integrated Writing (Set 1 + harder Set 2), Reading, Speaking tasks |
+| `GRE/` | Verbal vocab (Set 1 + 2), Text Completion, Reading Comprehension (Set 1 + 2), Quant drills (Set 1 + 2), AWA |
+| `MIXED_STRESS_MOCK_01.md` | Cross-exam, single-sitting mock combining GRE RC + Quant + IELTS Writing under fatigue — the Weeks 5–6 plan item, built out as a runnable drill |
+
+**Set 2 files exist across GRE/IELTS/TOEFL** — don't start a Set 2 until
+you've hit the stated prerequisite score on its Set 1 (noted at the top
+of each Set 2 file). Set 2 is deliberately calibrated above the real
+exam's bar, not at it — the point is that the real test should feel
+easier than practice by the time you sit it, not equally hard.
 
 ## Rules of engagement
 
