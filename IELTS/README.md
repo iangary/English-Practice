@@ -30,7 +30,14 @@ than it uses rare words placed approximately right.
 
 ## Files here
 
+- `writing_task1.md` — all 7 chart/process/map types, data-description
+  language bank, self-grading checklist, timed.
 - `writing_task2.md` — prompts, rubric, self-grading checklist, timed.
 - `reading_practice_01.md` — one full passage + 13 questions + answer key.
 - `speaking_cue_cards.md` — Part 2 cue cards + Part 3 follow-ups.
 - `vocabulary.md` — academic collocations and band-8 phrasing upgrades.
+
+**Gap note:** Listening practice isn't built out yet — see
+`TOEFL/listening_practice.md` for the note-taking framework in the
+meantime; the skill transfers directly (both exams test the same
+single-play, structure-over-transcription listening habit).

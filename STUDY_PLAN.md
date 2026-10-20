@@ -23,6 +23,10 @@ meaningless.
   `GRE/reading_comprehension_practice.md`.
 - **Sat:** TOEFL Independent + Integrated Writing, back to back, full time
   pressure (30 min + 20 min), from `TOEFL/writing_tasks.md`.
+- **Sun (before rest):** One IELTS Writing Task 1 (20 min) from
+  `IELTS/writing_task1.md`, rotating chart type each week, and one
+  TOEFL Listening passage from `TOEFL/listening_practice.md`, answered
+  from notes only, no second read-through.
 - **Weekly mock:** One full IELTS Academic Reading passage set, strictly
   timed to 20 minutes including transfer of answers.
 
@@ -31,6 +35,11 @@ meaningless.
 - Cut your essay planning time by 5 minutes from week 1–2's pace. If your
   score drops, you were relying on planning time as a crutch — fix the
   underlying structure instead of restoring the time.
+- Once Set 1 of `GRE/verbal_vocab.md` passes the automaticity bar (both
+  directions, under 3 seconds, two days running), start layering in
+  `GRE/verbal_vocab_set2.md`. Don't retire Set 1 drilling — run its
+  cumulative mixed-set drill weekly so the two sets merge into one
+  retrievable vocabulary instead of staying two separate lists.
 - Add GRE Quant drills (`GRE/quant_drills.md`) 4x/week, strictly timed
   (1:45/question average, no calculator use beyond what the real test
   allows).
