@@ -4,6 +4,13 @@ Log every timed drill and every mock here. "I'll remember" is not a
 tracking system. Copy the row template and fill it in immediately after
 each session — scores decay in memory within hours.
 
+> **Coach's note:** every table below is still empty. The program has been
+> built and escalated (see `HARD_MODE.md`) twice now with zero logged
+> sessions in between. A training plan nobody executes is not a safety
+> net — it's a reason to feel prepared without being prepared. The next
+> action isn't reading more material, it's the Week 0 baseline mock in
+> `STUDY_PLAN.md`, timed, logged below, today.
+
 ## Baseline (Week 0)
 
 | Date | Exam/Section | Score/Band | Time taken | Notes |

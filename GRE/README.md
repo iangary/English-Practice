@@ -28,7 +28,13 @@ Scored 130–170 per section (1-point increments) for Verbal/Quant, 0–6
 ## Files here
 
 - `verbal_vocab.md` — high-frequency GRE words, drilled both directions.
+- `verbal_vocab_hard.md` — hard-tier (165+) words. Unlock only after
+  mastering `verbal_vocab.md` both directions.
 - `text_completion_practice.md` — timed TC/SE-style sets + explanations.
 - `reading_comprehension_practice.md` — one passage + questions + key.
 - `quant_drills.md` — arithmetic/algebra/geometry/data sets, fully worked.
+- `quant_drills_hard.md` — hard-tier (165+ pace) set, 1:30/question. Unlock
+  only after scoring 11–12/12 on `quant_drills.md`.
 - `awa_prompts.md` — Issue + Argument prompts, rubric, outline method.
+
+See `../HARD_MODE.md` for when and how to move to the hard-tier files.

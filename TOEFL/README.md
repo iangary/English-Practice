@@ -32,5 +32,10 @@ IELTS's half-band system, which rewards grinding.
 ## Files here
 
 - `writing_tasks.md` — Integrated + Academic Discussion prompts, timed.
+- `integrated_writing_hard.md` — denser, 3-claim source material with
+  differently-worded counterpoints. Unlock only after reliably catching
+  all claim/counterpoint pairs on `writing_tasks.md`.
 - `reading_practice_01.md` — one passage + 10 questions + answer key.
 - `speaking_tasks.md` — all 4 task types with timing and self-grading.
+
+See `../HARD_MODE.md` for when and how to move to the hard-tier file.

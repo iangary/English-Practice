@@ -31,6 +31,10 @@ than it uses rare words placed approximately right.
 ## Files here
 
 - `writing_task2.md` — prompts, rubric, self-grading checklist, timed.
+- `writing_task2_hard.md` — Band 8+ prompts, compressed to 32 min. Unlock
+  only after self-grading 7.0+ consistently on `writing_task2.md`.
 - `reading_practice_01.md` — one full passage + 13 questions + answer key.
 - `speaking_cue_cards.md` — Part 2 cue cards + Part 3 follow-ups.
 - `vocabulary.md` — academic collocations and band-8 phrasing upgrades.
+
+See `../HARD_MODE.md` for when and how to move to the hard-tier file.
