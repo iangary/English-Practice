@@ -23,6 +23,11 @@ meaningless.
   `GRE/reading_comprehension_practice.md`.
 - **Sat:** TOEFL Independent + Integrated Writing, back to back, full time
   pressure (30 min + 20 min), from `TOEFL/writing_tasks.md`.
+- **Listening, 2x/week (don't skip this — it's the section people most
+  neglect because it feels passive):** one read-once listening set from
+  `IELTS/listening_practice_01.md` or `TOEFL/listening_practice_01.md`,
+  alternating exams. Enforce the "read it exactly once" rule strictly —
+  rereading defeats the entire point of the drill.
 - **Weekly mock:** One full IELTS Academic Reading passage set, strictly
   timed to 20 minutes including transfer of answers.
 
