@@ -11,7 +11,8 @@ file doesn't have a timer attached to it, it's not a drill, it's trivia.
 
 | Folder | Contents |
 |---|---|
-| `STUDY_PLAN.md` | The 10-week schedule. Start here. |
+| `DAILY_MINIMUM.md` | Haven't logged a single session yet? Start here instead — 12 minutes, no excuse. |
+| `STUDY_PLAN.md` | The 10-week schedule. Start here once you've got momentum. |
 | `PROGRESS_LOG.md` | Your scorecard. Fill it in after every drill — no exceptions. |
 | `IELTS/` | Writing Task 2, Academic Reading, Speaking cue cards, vocabulary |
 | `TOEFL/` | Independent + Integrated Writing, Reading, Speaking tasks |
