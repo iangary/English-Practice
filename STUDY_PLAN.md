@@ -46,7 +46,12 @@ meaningless.
   maintenance (half frequency).
 - Start combining skills: do a GRE Reading passage, then immediately an
   IELTS Writing Task 2 on a related theme — context-switching under
-  fatigue is what the real test day actually demands.
+  fatigue is what the real test day actually demands. Run the full
+  `GAUNTLET.md` session once this fortnight, scheduled a few days before
+  that week's mock, not on the same day as it.
+- Every drill file now has a Set 2 / Advanced tier once you clear Set 1
+  at pace — move up into it during these weeks rather than re-running
+  Set 1 material you've already mastered.
 - **Weekly mock, Week 5:** Full GRE Verbal section (2 sections, 41 min total).
 - **Weekly mock, Week 6:** Full IELTS Writing (Task 1 + Task 2, 60 min).
 

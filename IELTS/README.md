@@ -30,7 +30,12 @@ than it uses rare words placed approximately right.
 
 ## Files here
 
-- `writing_task2.md` — prompts, rubric, self-grading checklist, timed.
-- `reading_practice_01.md` — one full passage + 13 questions + answer key.
-- `speaking_cue_cards.md` — Part 2 cue cards + Part 3 follow-ups.
-- `vocabulary.md` — academic collocations and band-8 phrasing upgrades.
+- `writing_task2.md` — prompts, rubric, self-grading checklist, timed;
+  plus an advanced tier (harder prompts) and the back-to-back stress day.
+- `reading_practice_01.md` — Passage 1 (13 questions) + answer key.
+- `reading_practice_02.md` — Passage 2, advanced tier (matching headings
+  — the hardest IELTS Reading question type), 13 questions + answer key.
+- `speaking_cue_cards.md` — Part 2 cue cards + Part 3 follow-ups, plus an
+  advanced tier (abstract cue cards + rapid-fire Part 3).
+- `vocabulary.md` — academic collocations and band-8 phrasing upgrades,
+  plus a Band 8.5–9 precision/hedging tier.

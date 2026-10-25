@@ -134,3 +134,137 @@ eliminate it entirely.
 9–10/10 = on pace for V165+ · 7–8 = V160-ish · below 7: for every miss,
 write down whether you missed the **vocabulary** or the **logical
 signal** — they require completely different fixes.
+
+---
+
+# Set 2 — Advanced tier (Set 2 vocab, tighter timing)
+
+**Timer: 50 seconds/blank-set, 40 seconds/Sentence Equivalence — five
+seconds less than Set 1 across the board. If your accuracy collapses
+under the tighter clock, that's the actual signal to drill, not a reason
+to give yourself more time; the real test will not give you more time
+either.**
+
+## Text Completion
+
+**1 (one blank).** Rather than offering a genuine apology, the executive
+issued a carefully worded, almost ______ statement that managed to avoid
+admitting any specific wrongdoing.
+
+(A) vitriolic (B) anodyne (C) lugubrious
+
+**2 (two blanks).** The newspaper's coverage was criticized as
+(i)______, consistently framing the mayor's policies in the most
+flattering possible light, a bias that even (ii)______ readers who
+supported the mayor found difficult to ignore.
+
+Blank (i): (A) pellucid (B) tendentious (C) recondite
+Blank (ii): (A) sympathetic (B) hostile (C) indifferent
+
+**3 (three blanks).** The minister's testimony was widely seen as
+(i)______, offering answers that technically responded to each question
+while revealing almost nothing; this pattern of (ii)______ only
+reinforced suspicions that the ministry had something to hide, and by
+the session's end, even allies who had arrived (iii)______ toward the
+inquiry were openly questioning the official account.
+
+Blank (i): (A) equivocal (B) pellucid (C) munificent
+Blank (ii): (A) candor (B) prevarication (C) generosity
+Blank (iii): (A) hostile (B) sympathetic (C) indifferent
+
+**4 (one blank).** It would be a mistake to dismiss the treatise as
+merely ______; though its prose is dense and its references obscure
+even to specialists, its central argument has quietly shaped three
+decades of policy.
+
+(A) recondite (B) mendacious (C) sanctimonious
+
+**5 (two blanks).** Far from the (i)______ figure his rivals portrayed,
+the negotiator was in private surprisingly (ii)______, conceding minor
+points readily in order to preserve goodwill for the issues that
+actually mattered to him.
+
+Blank (i): (A) obdurate (B) ebullient (C) timorous
+Blank (ii): (A) truculent (B) flexible (C) parsimonious
+
+**6 (one blank).** The retired diplomat's memoir is less a record of
+state secrets than a ______ account of a life spent almost entirely
+abroad, moving every two years from one posting to the next.
+
+(A) peripatetic (B) quiescent (C) lugubrious
+
+---
+
+## Sentence Equivalence
+
+**7.** Critics dismissed the senator's apology as ______, noting that it
+carefully avoided any acknowledgment of the specific harm caused.
+
+(A) candid (B) anodyne (C) equivocal (D) forthright (E) munificent (F) vague
+
+**8.** The professor's marginal notes revealed a ______ mind, catching
+an inconsistency in the argument that three previous reviewers had
+missed entirely.
+
+(A) perspicacious (B) pusillanimous (C) astute (D) timorous (E) sardonic (F) sanctimonious
+
+**9.** Having spent his career moving between six countries, he found it
+strange to finally live a ______ existence, waking in the same house for
+the first time in a decade.
+
+(A) peripatetic (B) sedentary (C) settled (D) quiescent (E) itinerant (F) obdurate
+
+**10.** The foundation's ______ donation — the largest in its sixty-year
+history — allowed the clinic to triple its staff within a year.
+
+(A) tendentious (B) munificent (C) generous (D) sanctimonious (E) parsimonious (F) perfidious
+
+---
+
+## Answer Key & Logic Explanations
+
+1. **(B) anodyne** — "rather than...genuine apology" + "avoid admitting
+   any specific wrongdoing" signals a deliberately inoffensive, say-
+   nothing statement — exactly "anodyne."
+2. **(i) B tendentious, (ii) A sympathetic** — "consistently framing...in
+   the most flattering light" = biased toward one side = tendentious;
+   "even ___ readers...found it difficult to ignore" needs a word that
+   makes the bias maximally hard to dismiss, which requires readers who'd
+   *want* to overlook it — i.e., already sympathetic to the mayor.
+3. **(i) A equivocal, (ii) B prevarication, (iii) B sympathetic** —
+   "technically responded...revealing almost nothing" = equivocal;
+   that pattern of evasive non-answering is literally prevarication; "even
+   allies who arrived ___ ... were openly questioning" needs a reversal
+   from a positive starting disposition, i.e., sympathetic.
+4. **(A) recondite** — "dense...obscure even to specialists" directly
+   defines recondite; the sentence's "it would be a mistake to dismiss...
+   merely ___" signals the word names a real but easy-to-underrate
+   quality, not a flaw like dishonesty (mendacious) or false piety
+   (sanctimonious).
+5. **(i) A obdurate, (ii) B flexible** — "Far from the ___ figure his
+   rivals portrayed" sets up a contrast with what follows: "surprisingly
+   ___, conceding minor points readily" = flexible, so the rejected
+   public image must be its opposite, stubborn = obdurate.
+6. **(A) peripatetic** — "moving every two years from one posting to the
+   next" directly defines a peripatetic life.
+7. **(B) anodyne, (C) equivocal** — "carefully avoided any acknowledgment
+   of specific harm" matches a deliberately inoffensive/non-committal
+   statement; note "vague" (F) is tempting but less precise than
+   "equivocal," which specifically implies deliberate evasiveness rather
+   than mere lack of clarity — on SE, pick the tightest match, not just a
+   plausible one.
+8. **(A) perspicacious, (C) astute** — "catching an inconsistency...three
+   previous reviewers missed" directly demonstrates keen insight.
+9. **(B) sedentary, (C) settled** — "finally live a ___ existence, waking
+   in the same house" is the explicit opposite of his previous
+   peripatetic life — don't fall for (A)/(E), which repeat the *wrong*
+   half of the contrast.
+10. **(B) munificent, (C) generous** — "largest in its sixty-year history"
+    directly supports an extremely generous donation.
+
+### Scoring
+9–10/10 = still on pace for V165+ at tighter timing · 7–8 = the tighter
+clock is costing you real accuracy, which means your recognition isn't
+automatic yet — drill Set 2 vocab in isolation again before retrying this
+set · below 7: go back to untimed and rebuild accuracy first; speed
+without accuracy is just confident wrongness.

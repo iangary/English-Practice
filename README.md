@@ -13,9 +13,15 @@ file doesn't have a timer attached to it, it's not a drill, it's trivia.
 |---|---|
 | `STUDY_PLAN.md` | The 10-week schedule. Start here. |
 | `PROGRESS_LOG.md` | Your scorecard. Fill it in after every drill — no exceptions. |
-| `IELTS/` | Writing Task 2, Academic Reading, Speaking cue cards, vocabulary |
-| `TOEFL/` | Independent + Integrated Writing, Reading, Speaking tasks |
-| `GRE/` | Verbal vocab, Text Completion, Reading Comprehension, Quant drills, AWA |
+| `GAUNTLET.md` | Cross-exam stress session, once technique is solid in each skill. |
+| `IELTS/` | Writing Task 2, Academic Reading (2 passages), Speaking cue cards, vocabulary |
+| `TOEFL/` | Independent + Integrated Writing, Reading (2 passages), Speaking tasks |
+| `GRE/` | Verbal vocab (2 sets), Text Completion (2 sets), Reading Comprehension (2 passages), Quant drills (2 sets), AWA |
+
+Every drill file above now has a **Set 2 / Advanced tier** section once
+you clear Set 1 at a solid pace — don't start Set 2 material until Set 1
+is genuinely automatic, and don't stay on Set 1 past that point either.
+Progressive overload, not comfort, is the point of a training camp.
 
 ## Rules of engagement
 

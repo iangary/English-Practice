@@ -72,3 +72,62 @@ not just restated claims.
    the whole score down more than people expect.
 
 Log scores and the single biggest issue in `PROGRESS_LOG.md`.
+
+---
+
+## Advanced tier: abstract cue cards + rapid-fire Part 3
+
+These cue cards are deliberately harder to fill 2 minutes on because
+they're more abstract than "describe a thing you own" — which is exactly
+what separates Band 7 from Band 8+ speakers: can you generate specific,
+concrete detail even when the topic itself doesn't hand it to you.
+
+> **Describe a time you changed your opinion about something.**
+> You should say:
+> - what the opinion was
+> - what made you change your mind
+> - how long the change took
+> and explain how you feel about the original opinion now.
+
+> **Describe a rule (at school, at work, or in your family) that you
+> think is unnecessary.**
+> You should say:
+> - what the rule is
+> - who enforces it
+> - what would happen if it were removed
+> and explain why you think it is unnecessary.
+
+> **Describe a time you had to make a decision without enough
+> information.**
+> You should say:
+> - what the decision was
+> - why you didn't have enough information
+> - what you decided
+> and explain whether you think it was the right decision in hindsight.
+
+### Rapid-fire Part 3 (15 seconds to start speaking, no extra think time)
+
+Use immediately after any cue card above. The real exam doesn't give you
+a quiet moment to compose a perfect answer — the examiner asks and you
+respond. Set a 15-second cap before you must start talking (thinking
+"out loud" into a rephrase of the question is a legitimate strategy, not
+stalling):
+
+- Do people in your country generally find it easy or hard to admit when
+  they're wrong? Why do you think that is?
+- Is it better for organizations to have many rules or to trust people's
+  judgment? Why?
+- How reliable do you think human intuition is compared to data when
+  making important decisions?
+- Do you think society rewards people who stick to their original
+  opinions, or people who are willing to change their minds? Why?
+
+### Self-audit specific to this tier
+- Did the abstractness of the cue card cause you to speak in generalities
+  ("sometimes people change their minds about things") instead of
+  committing to one specific, personal example? That drift toward
+  vagueness under difficulty is the single biggest tell of a Band 6–7
+  ceiling on Part 2.
+- On rapid-fire Part 3: did the 15-second cap cause more filler words than
+  usual? If yes, your fluency isn't actually automatic yet — it was
+  relying on think time you won't reliably get in the real exam.

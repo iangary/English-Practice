@@ -65,3 +65,77 @@ isolation — it fails you on whether you correctly identified the
 sentence's **logical direction** (same-direction clue vs. contrast clue)
 before you even got to picking the word. Drill the logic in
 `text_completion_practice.md` using these words once you've learned them.
+
+---
+
+# Set 2 (30 words) — Advanced tier
+
+**Gate to unlock this set:** you should be at 2-second recall on both
+directions of every Set 1 word before starting this set — stacking a
+second set on top of a shaky first set is how people end up knowing 60
+words at 70% instead of 30 words at 100%, and 70% recall is a guess, not
+knowledge, on test day.
+
+| Word | Part of speech | Definition | Example sentence |
+|---|---|---|---|
+| Obdurate | adj. | stubbornly refusing to change one's mind or soften | Even after three appeals, the judge remained **obdurate** on the sentence. |
+| Perfidious | adj. | deliberately deceitful; treacherous | The **perfidious** advisor had been leaking cabinet secrets for years. |
+| Pellucid | adj. | transparently clear, in meaning or in water | Her **pellucid** explanation made the proof obvious in a single read. |
+| Sycophant | n. | one who flatters powerful people to gain advantage | The CEO surrounded himself with **sycophants** who never challenged a bad idea. |
+| Vitriolic | adj. | filled with bitter criticism or malice | The **vitriolic** review accused the chef of personally insulting the diner. |
+| Opprobrium | n. | harsh public criticism or disgrace | The senator faced widespread **opprobrium** after the leaked recording surfaced. |
+| Sanctimonious | adj. | falsely or hypocritically pious/morally superior | His **sanctimonious** lecture on honesty rang hollow given his own record. |
+| Equivocate | v. | to use unclear language to avoid committing to a position | Pressed for a yes-or-no answer, the spokesperson simply **equivocated**. |
+| Inveterate | adj. | having a long-established habit; deeply ingrained | An **inveterate** collector, she owned over four thousand vinyl records. |
+| Mendacious | adj. | lying; untruthful | The **mendacious** witness contradicted his own earlier testimony three times. |
+| Munificent | adj. | extremely generous | The alumna's **munificent** gift funded the entire new science wing. |
+| Nefarious | adj. | wicked or criminal | Investigators slowly uncovered the executive's **nefarious** accounting scheme. |
+| Obsequious | adj. | excessively eager to please or obey | The **obsequious** waiter refilled the critic's water glass every ninety seconds. |
+| Peripatetic | adj. | traveling from place to place; itinerant | Her **peripatetic** childhood, spent in six countries, shaped her fiction. |
+| Pusillanimous | adj. | lacking courage; cowardly | Critics called the board's refusal to act a **pusillanimous** dodge. |
+| Quiescent | adj. | in a state of inactivity or dormancy | The volcano had lain **quiescent** for nearly four centuries before erupting. |
+| Recondite | adj. | obscure, abstruse, known only to specialists | The footnote cited a **recondite** 17th-century treatise few had ever read. |
+| Sardonic | adj. | grimly mocking or cynical | He gave a **sardonic** smile when asked if the plan would work. |
+| Surreptitious | adj. | done secretly, often with guilty awareness | She took a **surreptitious** glance at her phone during the meeting. |
+| Tendentious | adj. | biased in a way that promotes a particular viewpoint | The documentary's **tendentious** editing omitted every inconvenient fact. |
+| Umbrage | n. | offense or annoyance | He took **umbrage** at the implication that his data was fabricated. |
+| Vituperate | v. | to criticize harshly and abusively | Commentators **vituperated** the decision for weeks after it was announced. |
+| Wheedle | v. | to coax through flattery or persistent charm | She **wheedled** an extra day off out of her reluctant manager. |
+| Timorous | adj. | timid; fearful | The **timorous** intern hesitated for a full minute before raising her hand. |
+| Lugubrious | adj. | mournful, dismal, exaggeratedly sad | The film's **lugubrious** score undercut what should have been a hopeful scene. |
+| Perspicacious | adj. | having keen insight or judgment | Her **perspicacious** reading of the contract caught a clause the lawyers missed. |
+| Prevaricate | v. | to speak evasively or misleadingly | Rather than answer directly, the official began to **prevaricate**. |
+| Expurgate | v. | to remove objectionable material from a text | The school library stocked an **expurgated** edition of the novel. |
+| Anodyne | adj. | inoffensive, unlikely to provoke; mildly soothing | The committee issued a carefully **anodyne** statement that said nothing at all. |
+| Apocryphal | adj. | of doubtful authenticity, though widely circulated | The story of the CEO's garage origin is almost certainly **apocryphal**. |
+
+## Drill: fill in the blank (cover the answer key below)
+
+1. Despite mounting evidence, the committee chair remained ______,
+   refusing to reconsider the ruling.
+2. The biography was criticized as ______, presenting only the facts
+   that supported its flattering thesis.
+3. His colleagues found the ______ intern's constant flattery of
+   management more unsettling than endearing.
+4. The retired general lived a ______ life, never staying in one
+   country for more than a year.
+5. After the scandal broke, the senator faced near-universal ______
+   from both parties.
+
+### Answer key
+1. obdurate  2. tendentious  3. sycophantic (sycophant used adjectivally — note the real GRE would give you "sycophantic," a predictable adjective form worth recognizing)  4. peripatetic  5. opprobrium
+
+## Mixed review drill (Set 1 + Set 2, both directions, untimed first pass)
+
+Cover the right-hand definition column and go down this combined list in
+random order (shuffle it yourself — don't just read top to bottom, since
+the GRE never gives you words in the order you memorized them):
+Ameliorate, Obdurate, Capricious, Perfidious, Ebullient, Pellucid,
+Fastidious, Sycophant, Garrulous, Vitriolic, Iconoclast, Opprobrium,
+Laconic, Sanctimonious, Mitigate, Equivocate, Obfuscate, Inveterate,
+Parsimonious, Mendacious, Recalcitrant, Munificent, Sanguine, Nefarious,
+Ubiquitous, Obsequious, Cogent, Peripatetic, Pernicious, Pusillanimous,
+Specious, Quiescent, Truculent, Recondite. Any word you can't define in
+under 3 seconds goes back into tomorrow's review — log it in
+`PROGRESS_LOG.md`'s vocabulary mastery table immediately, not at the end
+of the week when you've forgotten which ones they were.

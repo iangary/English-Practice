@@ -113,3 +113,145 @@ your misses cluster on "detail" questions (go back and re-read more
 slowly, you're moving too fast) or "inference/function" questions (this
 is a reasoning gap, not a reading-speed gap — drill identifying the
 author's purpose in each paragraph before reading the questions).
+
+---
+
+# Practice Passage 2 — Advanced tier
+
+**Timer: 7 minutes for this passage and its 7 questions (one minute
+tighter than Passage 1, and one more question) — this passage is denser
+and the questions lean harder on function and inference rather than
+plain detail-recall.**
+
+## Passage
+
+Paleoclimatologists reconstructing ancient temperatures face a problem
+with no direct solution: no thermometer existed before the nineteenth
+century, so any claim about, say, ocean temperatures ten thousand years
+ago must be inferred from a proxy — some physical or chemical trace left
+behind whose properties happen to correlate with temperature at the time
+it formed. One of the most widely used such proxies is the ratio of two
+oxygen isotopes, oxygen-18 and oxygen-16, preserved in the calcium
+carbonate shells of marine microorganisms called foraminifera. Because
+water molecules containing the lighter isotope, oxygen-16, evaporate
+slightly more readily than those containing oxygen-18, the ratio of the
+two isotopes remaining in seawater—and thus in the shells of organisms
+that incorporate that seawater's oxygen into their shells as they
+grow—shifts in predictable ways with temperature and with the amount of
+water locked up in glacial ice.
+
+This proxy has proven remarkably durable, but it is not without
+complications that have forced revisions to how it is interpreted. For
+decades, researchers treated the isotope ratio chiefly as a direct
+temperature signal: a higher proportion of oxygen-18 was read as
+indicating colder water. It eventually became clear, however, that the
+ratio is a composite signal, entangling two distinct variables—local
+water temperature and global ice volume—that happen to push the ratio in
+the same direction during ice ages, making them difficult to disentangle
+using oxygen isotopes alone. A sample from a glacial period might show a
+high oxygen-18 ratio because the local water was genuinely colder, or
+because so much oxygen-16-enriched water was locked in continental ice
+sheets that the ocean's remaining isotope ratio shifted regardless of
+local temperature, or, most often, some combination of both effects
+operating simultaneously.
+
+Resolving this ambiguity has depended on combining the oxygen isotope
+record with independent proxies sensitive to only one of the two
+variables. Magnesium-to-calcium ratios in the same foraminifera shells,
+for instance, respond to temperature but are largely insensitive to
+global ice volume, allowing researchers to effectively subtract out the
+temperature component and isolate an estimate of ice volume on its own.
+Cross-referencing multiple proxies in this way is now standard practice
+in the field, not because any single proxy improved dramatically, but
+because the specific limitation of one proxy could be compensated for by
+the specific strength of another—a strategy sometimes summarized by the
+principle that no individual proxy needs to be perfect if its particular
+blind spots are covered by a different proxy's particular strengths.
+
+This multi-proxy approach has also complicated what might seem like a
+simple task: producing a single, authoritative global temperature curve
+for the past several hundred thousand years. Different proxies, drawn
+from different locations and organisms, do not always agree precisely
+with one another, even after each has been individually calibrated and
+corrected. Some of this disagreement reflects genuine regional variation
+in climate rather than measurement error—the deep Pacific and the North
+Atlantic, for example, do not necessarily warm or cool in lockstep—which
+means that an apparent discrepancy between two proxy records is not
+automatically a sign that one of them is wrong. Distinguishing genuine
+regional climate variation from proxy error or miscalibration remains one
+of the more labor-intensive aspects of the field, and the resulting
+curves are now typically presented with explicit uncertainty ranges
+rather than as single precise lines, a shift in presentation that itself
+reflects a broader, more cautious methodological consensus than existed a
+generation ago.
+
+## Questions
+
+**1. Main idea:** Which best describes the passage's primary purpose?
+(A) To argue that oxygen isotope proxies should be abandoned in favor of
+    magnesium-to-calcium ratios
+(B) To explain the complications of a widely used temperature proxy and
+    how researchers have addressed them through combining multiple proxies
+(C) To prove that all paleoclimate temperature reconstructions before a
+    certain date are unreliable
+(D) To describe the biology of foraminifera in detail
+
+**2. Detail:** According to the passage, why does the oxygen isotope
+ratio in foraminifera shells shift during ice ages?
+(A) Foraminifera stop forming shells during colder periods.
+(B) The ratio reflects local temperature only, with no other influence.
+(C) It reflects a combination of local temperature and the amount of
+    oxygen-16-enriched water locked in continental ice.
+(D) Magnesium replaces oxygen in the shells during glacial periods.
+
+**3. Function:** Why does the author mention magnesium-to-calcium ratios
+in paragraph 3?
+(A) To introduce a proxy entirely unrelated to the oxygen isotope problem
+(B) To illustrate how an independent proxy sensitive to only one variable
+    can help resolve the ambiguity described in paragraph 2
+(C) To argue that magnesium-based proxies have replaced oxygen isotopes
+    entirely
+(D) To criticize foraminifera as an unreliable source of proxy data
+
+**4. Inference:** It can be inferred that before researchers recognized
+the composite nature of the oxygen isotope signal, early temperature
+reconstructions based on that signal alone
+(A) were likely to conflate genuine temperature change with changes in
+    global ice volume
+(B) were more accurate than modern multi-proxy reconstructions
+(C) relied primarily on magnesium-to-calcium ratios instead
+(D) could not be produced at all
+
+**5. Detail:** According to the final paragraph, disagreement between
+different proxy records is
+(A) always evidence that one of the proxies was miscalibrated
+(B) sometimes a reflection of genuine regional climate variation rather
+    than error
+(C) evidence that the multi-proxy approach has failed
+(D) only found in records from the Pacific Ocean
+
+**6. Vocabulary in context:** The word "entangling" in paragraph 2 is
+closest in meaning to
+(A) separating cleanly (B) intertwining inseparably (C) eliminating
+(D) measuring precisely
+
+**7. Rhetorical structure:** The overall structure of the passage can
+best be described as
+(A) a chronological biography of a single scientist's discovery
+(B) a description of a tool's core mechanism, a complication with that
+    tool, a strategy developed to address the complication, and a
+    remaining challenge even after that strategy is applied
+(C) a direct refutation of mainstream climate science
+(D) a comparison of two unrelated scientific fields
+
+## Answer Key
+
+1. **B** 2. **C** 3. **B** 4. **A** 5. **B** 6. **B** 7. **B**
+
+### Scoring
+7/7 = V168+ pace on dense science passages · 6/7 = solid · 5/7 or below:
+this passage deliberately stacks two abstractions (isotope ratio +
+ice volume) on top of each other in paragraph 2 — if that's where you
+lost points, the fix is slowing down specifically at the sentence where
+a passage introduces a second interacting variable, not reading the
+whole passage more slowly across the board.

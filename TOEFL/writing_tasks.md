@@ -130,3 +130,93 @@ tied to what they said), and contributes your own reasoned position.
 
 Log your self-estimated score (0–30 equivalent) and the single biggest
 gap in `PROGRESS_LOG.md`.
+
+---
+
+## Advanced tier: Set 3 (Integrated) — subtler challenge relationships
+
+**Why this is harder:** in Sets 1–2, the lecture directly contradicts
+each of the reading's three points one-for-one, in the same order. In
+real TOEFL integrated tasks, the mapping is not always that clean — the
+lecture may challenge the reading's points out of order, combine two
+points into one rebuttal, or challenge the reading's underlying
+assumption rather than each claim individually. This set drills that.
+
+**Reading passage:**
+
+> Some nutritionists have proposed that intermittent fasting — restricting
+> eating to a specific window of hours each day — offers significant
+> health benefits beyond simple calorie reduction. Three mechanisms are
+> commonly cited. First, extended fasting periods are said to trigger
+> autophagy, a cellular cleanup process that may reduce the risk of
+> age-related disease. Second, intermittent fasting is claimed to improve
+> insulin sensitivity more effectively than a standard reduced-calorie
+> diet eaten throughout the day. Third, proponents argue that the
+> approach is easier to sustain long-term than continuous calorie
+> counting, since people can eat normally within their window rather than
+> tracking every meal.
+
+**Lecture transcript (simulated professor, read once):**
+
+> "I want to push back on this, but not point by point — I think the
+> whole framework rests on a comparison that isn't being made fairly. Most
+> of the studies showing these benefits compared intermittent fasters to
+> people eating however they wanted, with no calorie control at all. When
+> more recent, better-designed studies controlled for total calorie
+> intake — comparing fasters to non-fasters eating the *same* total
+> calories, just spread across the day — the differences in autophagy
+> markers and insulin sensitivity mostly disappeared. In other words, the
+> benefit wasn't really coming from the *timing* of eating at all — it
+> was coming from the fact that fasting made it easier for people to
+> accidentally eat less overall, which is a calorie-reduction effect
+> wearing a different name. As for sustainability — sure, some people
+> find a fasting window easier to stick to, but just as many report it
+> harder, especially people with demanding physical jobs or irregular
+> schedules — so even that claimed advantage looks more like it depends
+> entirely on the individual than like a general rule."
+
+**Your task:** Summarize the lecture's points and explain how they cast
+doubt on specific claims made in the reading passage. Note that the
+lecture does not address the three reading points one at a time in order
+— identify how it actually organizes its challenge before you start
+writing.
+
+---
+
+## Advanced tier: Academic Discussion with a disagreement you must navigate
+
+**Protocol:** Same as above (10 minutes, 100–150 words), but this prompt
+includes two students who **directly disagree with each other**, not just
+two independent views — you must take a position that engages with the
+actual disagreement, not just restate both sides.
+
+> **Professor:** This week we're discussing whether universities should
+> require students to complete an internship before graduating. Some
+> argue it ensures practical, job-ready skills; others say it narrows
+> students' options too early. What's your view?
+>
+> **Student A (Wei):** I think it should be required. So many graduates
+> struggle to find jobs simply because they have zero practical
+> experience — an internship requirement would fix that at the source
+> instead of leaving it up to individual initiative.
+>
+> **Student B (Priya):** I actually disagree with Wei here — not every
+> field has clear internship pathways, and forcing, say, a philosophy or
+> pure math student into an unrelated internship just to satisfy a
+> requirement doesn't build relevant skills, it just wastes a semester
+> they could've spent on coursework or research instead.
+
+**Your task:** Respond in a way that engages with the specific
+disagreement between Wei and Priya (agree with one, partially agree with
+both, or propose a resolution), citing at least one specific point either
+of them made.
+
+## Self-audit specific to this tier
+- Integrated: did you correctly identify that the lecture's challenge was
+  structural (attacking the reading's underlying comparison) rather than
+  point-by-point? Writing "First, the lecture says X contradicts the
+  reading's first point..." when the actual relationship is more complex
+  is a content-accuracy error that caps your score regardless of grammar.
+- Discussion: did you engage with the *disagreement itself* — i.e., did
+  you take a position on who has the stronger point, or did you just
+  summarize both students' views without actually entering the debate?

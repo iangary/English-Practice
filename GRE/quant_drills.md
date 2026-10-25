@@ -146,3 +146,141 @@ knowing the method and reliably getting the point under time pressure.
 "careless" (knew the method, slipped on execution — drill verification
 habits) vs. "conceptual" (didn't know the approach — review that specific
 topic) in `PROGRESS_LOG.md`. These need entirely different fixes.
+
+---
+
+## Set 2 — Advanced tier (data interpretation + combinatorics)
+
+**Timer: 1:30/question average — 15 minutes for all 10. This set leans
+into the two topics that quietly separate Q165 from Q170: multi-step data
+interpretation (where the arithmetic is easy but the setup has 2–3 traps)
+and combinatorics (where misreading "at least," "exactly," or
+"distinct" changes the entire approach).**
+
+**11.** A survey asked 400 employees which of three benefits (Health,
+Dental, Vision) they used. 220 used Health, 150 used Dental, 180 used
+Vision, 60 used both Health and Dental, 70 used both Health and Vision,
+50 used both Dental and Vision, and 25 used all three. How many
+employees used none of the three benefits?
+
+**12.** Data Interpretation: A company's quarterly revenue (in $millions)
+was: Q1: 40, Q2: 50, Q3: 45, Q4: 65. If Q1 revenue for the following year
+increased by 20% over the current year's Q1, and the following year's
+total annual revenue grew by exactly 15% over the current year's total,
+what was the following year's revenue for Q2+Q3+Q4 combined?
+
+**13.** A committee of 4 people is to be chosen from 6 men and 5 women.
+How many different committees are possible if the committee must include
+at least 2 women?
+
+**14.** Quantitative Comparison: Set A consists of 7 consecutive even
+integers. Set B consists of 7 consecutive odd integers. The median of
+Set A equals the median of Set B.
+
+Quantity A: The standard deviation of Set A
+Quantity B: The standard deviation of Set B
+
+**15.** A password must consist of exactly 4 characters: 2 distinct
+letters (from 26) followed by 2 distinct digits (from 0–9), in that
+fixed order (letter-letter-digit-digit). How many distinct passwords are
+possible?
+
+**16.** In a certain year, a city's population grew by 10% in the first
+half of the year and then declined by 10% in the second half of the
+year. If the population at the end of the year was 29,700, what was the
+population at the start of the year? (Round to the nearest whole number
+if needed.)
+
+**17.** Of the 60 students in a program, 36 study French, 28 study
+Spanish, and 10 study neither. How many students study both French and
+Spanish?
+
+**18.** A box contains 4 red, 3 blue, and 5 green marbles. If 3 marbles
+are drawn at random without replacement, what is the probability that
+all 3 are the same color?
+
+**19.** Quantitative Comparison: n is a positive integer and n! (n
+factorial) has exactly 2 trailing zeros.
+
+Quantity A: n
+Quantity B: 9
+
+**20.** A data set has a mean of 50 and a standard deviation of 8. If
+every value in the data set is multiplied by 2 and then increased by 5,
+what is the new standard deviation?
+
+---
+
+## Worked Solutions — Set 2
+
+**11. Answer: 5.** Use inclusion-exclusion: |H∪D∪V| = H+D+V −
+(H∩D + H∩V + D∩V) + (H∩D∩V) = 220+150+180 − (60+70+50) + 25 =
+550 − 180 + 25 = 395. None = 400 − 395 = **5**.
+
+**12. Answer: $182 million.** Current total = 40+50+45+65 = 200.
+Next year's total = 200 × 1.15 = 230. Next year's Q1 = 40 × 1.20 = 48.
+Q2+Q3+Q4 next year = 230 − 48 = **182**. (Trap: the 20% applies only to
+Q1, and the 15% applies to the *total*, not to each quarter individually
+— mixing these up is the entire point of this question.)
+
+**13. Answer: 215.** "At least 2 women" means exactly 2, 3, or 4 women
+(committee size is 4). Exactly 2 women, 2 men: C(5,2)×C(6,2) = 10×15 =
+150. Exactly 3 women, 1 man: C(5,3)×C(6,1) = 10×6 = 60. Exactly 4 women,
+0 men: C(5,4)×C(6,0) = 5×1 = 5. Total = 150+60+5 = **215**. (Check
+against the complement: total committees of 4 from 11 people = C(11,4) =
+330; subtracting the "fewer than 2 women" cases — 0 women: C(6,4)=15,
+1 woman: C(5,1)×C(6,3)=5×20=100 — gives 330−15−100 = 215 ✓.)
+
+**14. Answer: (C), they're equal.** Standard deviation depends only on
+the *spacing* between values, not on whether the values themselves are
+even or odd. Both sets are 7 consecutive integers spaced by 2 (consecutive
+evens or consecutive odds both increment by 2), centered on the same
+median, so they have identical spread. (Trap: "even" vs. "odd" feels like
+it should matter — it doesn't, because spacing, not parity, determines
+spread.)
+
+**15. Answer: 58,500.** 2 distinct letters in order: 26 × 25 = 650.
+2 distinct digits in order: 10 × 9 = 90. Total = 650 × 90 = **58,500**.
+(Trap: it's easy to use 10×10=100 for the digits instead of enforcing
+"distinct" on them too — re-read the problem: both the letter pair AND
+the digit pair must each be internally distinct.)
+
+**16. Answer: 30,000.** Let P = starting population. P × 1.10 × 0.90 =
+29,700 → P × 0.99 = 29,700 → P = 29,700 / 0.99 = **30,000**. (Trap: a 10%
+increase followed by a 10% decrease does NOT return to the original value
+— it nets to a 1% decrease, since 1.10 × 0.90 = 0.99, not 1.00.)
+
+**17. Answer: 14.** Study French or Spanish (or both) = 60 − 10 = 50.
+By inclusion-exclusion: French + Spanish − Both = 50 → 36 + 28 − Both =
+50 → Both = 64 − 50 = **14**.
+
+**18. Answer: 3/44.** Total ways to draw 3 from 12: C(12,3) = 220. All
+red: C(4,3) = 4. All blue: C(3,3) = 1. All green: C(5,3) = 10. Favorable
+= 4+1+10 = 15. Probability = 15/220 = **3/44**.
+
+**19. Answer: (A), Quantity A is greater.** The number of trailing zeros
+in n! equals the number of times 5 divides into the product: floor(n/5) +
+floor(n/25) + ... For n=9: floor(9/5)=1, so n=9 gives only 1 trailing
+zero. For n=10 through n=14: floor(n/5)=2 and floor(n/25)=0, so each
+gives exactly 2 trailing zeros (the next multiple of 5 that would add a
+third zero is 15). So "n! has exactly 2 trailing zeros" forces n to be
+10, 11, 12, 13, or 14 — every valid value of n is greater than 9, so
+Quantity A is greater in every case. (The trap: this *looks* like a
+"range of values, answer must be (D)" question, since n isn't uniquely
+pinned down — but (D) only applies when the relationship actually varies
+across the valid range, and here it doesn't: every single valid n beats
+9. Always check whether the range as a whole still produces one
+consistent comparison before defaulting to (D).)
+
+**20. Answer: 16.** Multiplying every value by a constant k scales the
+standard deviation by |k|; adding a constant shifts the mean but does not
+change the standard deviation at all. New SD = 8 × 2 = **16** (the "+5"
+has zero effect on spread).
+
+### Scoring
+8–10/10 = Q168+ pace on the hardest material this program offers · 6–7 =
+solid but review combinatorics case-counting specifically · below 6:
+this set is intentionally brutal — don't panic, isolate exactly which
+*category* (inclusion-exclusion, combinatorics, percent-change traps,
+or standard deviation rules) produced your misses and drill that
+category alone before retrying the full set.

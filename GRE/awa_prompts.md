@@ -93,3 +93,41 @@ opinion on the topic — critique the *reasoning* as given).
 
 Log a self-estimated 0–6 score and your single biggest gap in
 `PROGRESS_LOG.md`.
+
+---
+
+## Advanced tier: compressed-time Issue prompts (20 minutes, not 30)
+
+**Why:** a 6.0 under 30 minutes with planning time you've gotten
+comfortable with is not the same skill as a 6.0 under real pressure. Cut
+the outline step to 6 minutes total (3 min thesis + 2 strongest points,
+2 min counterargument, no separate ordering step — order as you write) and
+give yourself 20 minutes total. If your structure collapses under the
+cut, you were leaning on extra planning time as a crutch rather than
+having the structure internalized — that's exactly the gap this drill is
+built to expose.
+
+**5.** "Institutions should prioritize preserving their founding
+principles over adapting those principles to changing circumstances."
+Write a response discussing the extent to which you agree or disagree,
+considering ways in which the statement might or might not hold true.
+
+**6.** "The widespread availability of information has made people more
+informed, but not necessarily wiser." Discuss the extent to which you
+agree or disagree with this claim, and explain your reasoning.
+
+**7.** "Competition is a more powerful motivator of excellence than
+collaboration." Write a response in which you discuss the extent to
+which you agree or disagree, considering the most compelling reasons
+and/or examples that could be used to challenge your position.
+
+### Self-audit specific to the compressed version
+- Did cutting planning time cost you your nuanced thesis (did you revert
+  to a flat yes/no under pressure), or did it only cost you polish in the
+  final paragraph? These require very different fixes — the first means
+  drill the thesis-writing step in isolation until it's automatic; the
+  second just means you need more reps at this pace.
+- Compare this essay's word count to your untimed baseline. A drop of
+  more than ~100 words usually means you spent too long mid-essay
+  second-guessing your structure instead of committing to the outline and
+  executing.

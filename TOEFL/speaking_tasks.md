@@ -103,3 +103,97 @@ species is and why it matters to an ecosystem.
 
 Log a self-estimated 0–4 score per task (TOEFL Speaking's internal
 rubric scale) and your biggest gap in `PROGRESS_LOG.md`.
+
+---
+
+## Advanced tier: harder integrated sets + compressed prep time
+
+**Why:** real test-day prep time feels shorter than practice-at-home prep
+time, every time, because adrenaline compresses your sense of how much
+time you have. Cut prep time by 5 seconds on each task below (Task 2:
+40s prep instead of 45s; Task 3: 45s instead of 50s; Task 4: 15s instead
+of 20s) to build a margin of error into your real exam performance.
+
+### Task 2: Integrated — Campus situation (40s prep, 60s speak)
+
+**Reading:**
+
+> **Notice from the Student Union:** Beginning next semester, the Student
+> Union will discontinue its free printing allowance (currently 200 pages
+> per student per semester) and instead charge $0.05 per page for all
+> printing. The Union cites rising paper and maintenance costs, along
+> with a desire to reduce unnecessary printing on campus.
+
+**Listening (simulated conversation):**
+
+> **Student 1:** "I get that costs went up, but this is going to hit
+> students in programs with heavy reading loads way harder than others —
+> I'm in the law program, and I print hundreds of pages a week for case
+> readings that aren't even available as searchable PDFs."
+> **Student 2:** "Right, and it's not like they're offering any kind of
+> exception for financial need either. A flat per-page fee hits a student
+> on financial aid a lot harder than it hits someone who isn't."
+
+**Your task:** Summarize the student's opinion about the announcement and
+the reasons given for holding that opinion.
+
+### Task 3: Integrated — Academic (45s prep, 60s speak)
+
+**Reading:**
+
+> **The sunk cost fallacy** refers to the tendency to continue investing
+> in a decision based on the cumulative resources already spent, rather
+> than on a rational evaluation of the costs and benefits of continuing
+> going forward. This reasoning error is considered irrational because
+> resources already spent cannot be recovered regardless of the decision
+> made now.
+
+**Listening (simulated lecture excerpt, read once):**
+
+> "Let me give you a case that shows just how powerful this bias is even
+> among trained professionals. Researchers looked at venture capital
+> firms deciding whether to continue funding struggling startups across
+> additional investment rounds. You'd expect each round to be evaluated
+> fresh, based only on the startup's current prospects. Instead, firms
+> that had already invested more money in earlier rounds were
+> significantly more likely to continue funding a startup showing the
+> exact same warning signs than firms evaluating that startup for the
+> first time with no prior investment. The amount already sunk into the
+> company — which, rationally, should have had zero bearing on the
+> decision — was clearly driving the choice to keep going instead of
+> cutting losses."
+
+**Your task:** Explain the concept of the sunk cost fallacy using the
+specific example from the lecture.
+
+### Task 4: Integrated — Academic, listening only (15s prep, 60s speak)
+
+**Listening (simulated lecture excerpt, read once):**
+
+> "Mimicry in the animal kingdom isn't just one phenomenon — it actually
+> splits into at least two very different strategies. In Batesian
+> mimicry, a harmless species evolves to resemble a dangerous or
+> unpalatable one, essentially bluffing predators into avoiding it. The
+> classic example is the harmless scarlet kingsnake, which has evolved
+> coloring strikingly similar to the venomous coral snake, even though
+> the kingsnake itself poses no threat at all. But there's a completely
+> different strategy called Müllerian mimicry, where two or more species
+> that are *both* genuinely dangerous or unpalatable evolve to resemble
+> each other — not to bluff, but because sharing a single common warning
+> pattern means predators only have to learn one lesson to avoid all of
+> them, which benefits every dangerous species involved rather than just
+> one species deceiving a predator at another's expense."
+
+**Your task:** Using the lecture, explain the difference between
+Batesian mimicry and Müllerian mimicry.
+
+## Self-audit specific to this tier
+- Under the shorter prep window, did you still manage to identify the
+  reading's key claims clearly, or did you start speaking with a vaguer
+  grasp of the source material than usual? If the latter, your
+  note-taking structure (not your English) is the bottleneck — fix the
+  structure before adding more practice volume.
+- Task 4 is listening-only with no reading passage as a scaffold — if
+  your score drops more sharply here than on Tasks 2–3, that's a signal
+  your note-taking during pure listening needs more drilling specifically
+  (capture structure — "two strategies, X vs. Y" — not every sentence).

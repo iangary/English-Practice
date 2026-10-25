@@ -77,3 +77,47 @@ question is still a weak answer).
   summarize your actual argument, or just restate the question?
 
 Log the band estimate and the single biggest flaw in `PROGRESS_LOG.md`.
+
+---
+
+## Advanced tier: harder prompts + the back-to-back stress day
+
+### Harder prompts (more abstract, easier to drift off-topic)
+
+**Opinion:**
+11. Some people believe that the increasing use of artificial
+    intelligence in decision-making (hiring, loan approval, medical
+    diagnosis) will ultimately benefit society. To what extent do you
+    agree or disagree?
+12. It is sometimes argued that a country's cultural identity is
+    weakened, not enriched, by large-scale immigration. To what extent
+    do you agree or disagree?
+
+**Discuss both views (deliberately close to a tie — harder to pick a
+genuine position rather than hedging):**
+13. Some believe that success in life is mostly determined by factors
+    outside an individual's control, such as family background and luck,
+    while others believe hard work is the decisive factor. Discuss both
+    views and give your own opinion.
+
+**Problem/solution (abstract problem, concrete solution required):**
+14. In many societies, public trust in institutions such as government
+    and the media has declined significantly in recent decades. What do
+    you think are the causes of this, and what measures could be taken
+    to rebuild trust?
+
+### The back-to-back stress day (run this once a week once you're past Week 4)
+
+Two essays, 80 minutes total, no break between them, phone in another
+room:
+1. Essay 1: full 40 minutes, any prompt above.
+2. Immediately (no break): Essay 2, but cap yourself at **35 minutes**,
+   not 40 — this simulates recovering a few lost minutes elsewhere on
+   exam day and still having to deliver a full Band 7+ response.
+3. Self-grade both using the rubric above, back to back, before you do
+   anything else. Compare: did Essay 2's score drop because of fatigue
+   (concentration/ideas got thinner) or because of the 5 fewer minutes
+   (mechanically ran out of time to proofread)? Log which one in
+   `PROGRESS_LOG.md` — they call for different fixes: fatigue means build
+   stamina with more of these sessions; a time crunch means tighten your
+   per-paragraph time budget, not just "write faster."
