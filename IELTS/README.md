@@ -30,7 +30,13 @@ than it uses rare words placed approximately right.
 
 ## Files here
 
+- `writing_task1.md` — graph/chart/process/map report prompts, structure,
+  rubric, timed (150 words / 20 min).
 - `writing_task2.md` — prompts, rubric, self-grading checklist, timed.
 - `reading_practice_01.md` — one full passage + 13 questions + answer key.
+- `listening_practice_01.md` — transcript-based question-type drills
+  (form completion, multiple choice). **Read the file's note first** — use
+  real audio (Cambridge IELTS / British Council / IDP) for actual
+  listening practice; this trains trap recognition, not your ear.
 - `speaking_cue_cards.md` — Part 2 cue cards + Part 3 follow-ups.
 - `vocabulary.md` — academic collocations and band-8 phrasing upgrades.
