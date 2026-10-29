@@ -33,6 +33,18 @@ file doesn't have a timer attached to it, it's not a drill, it's trivia.
 5. **Weekly mock, no excuses.** Every week ends with a full timed section
    under exam conditions (phone away, no pausing). See `STUDY_PLAN.md`.
 
+## Escalation tiers
+
+Several drill sets now have a harder "Set 2" / "_02" version
+(`GRE/verbal_vocab_set2.md`, `GRE/quant_drills_02.md`) and the format
+gaps have been closed (`IELTS/writing_task1.md`,
+`IELTS/listening_practice_01.md`, `TOEFL/listening_practice_01.md`). If
+you're consistently scoring at the top of a Set 1 drill, that is not a
+signal to feel good about it — it's a signal you're overdue to move to
+the harder tier or add the missing skill. Comfort on Set 1 material past
+the point described in `STUDY_PLAN.md` is time you're not spending
+closing your actual gap to target.
+
 ## Target bands/scores (adjust once you know your baseline)
 
 - **IELTS:** Overall 7.5+ (no band below 7.0)

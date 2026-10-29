@@ -23,8 +23,16 @@ meaningless.
   `GRE/reading_comprehension_practice.md`.
 - **Sat:** TOEFL Independent + Integrated Writing, back to back, full time
   pressure (30 min + 20 min), from `TOEFL/writing_tasks.md`.
+- **Add once Mon/Wed/Fri Task 2 feels routine (usually by end of Week 1):**
+  one IELTS Writing Task 1 (20 min, strict) from `IELTS/writing_task1.md`
+  right before your Task 2 essay, back to back — this is the actual exam
+  pairing, so practice them separately only long enough to learn each
+  rubric, then always combine them.
 - **Weekly mock:** One full IELTS Academic Reading passage set, strictly
-  timed to 20 minutes including transfer of answers.
+  timed to 20 minutes including transfer of answers, **plus** one full
+  run of `IELTS/listening_practice_01.md` (single playthrough, no
+  pausing, 10-minute answer transfer at the end — read the file's
+  protocol before you start).
 
 ## Weeks 3–4 — Speed and precision
 
@@ -37,7 +45,14 @@ meaningless.
 - Add IELTS/TOEFL Speaking: record yourself answering 3 cue
   cards/prompts per session, play it back, transcribe your own filler
   words (really) and count them.
-- **Weekly mock:** Full TOEFL Reading section (3 passages, 54 minutes).
+- Once GRE Quant Set 1 and GRE Verbal vocab Set 1 are both scoring at
+  pace (11–12/12 and automatic recall, respectively), move to the
+  escalation tiers: `GRE/quant_drills_02.md` and `GRE/verbal_vocab_set2.md`.
+  Don't move early — a weak foundation under tighter timing just teaches
+  you to guess faster, not better.
+- **Weekly mock:** Full TOEFL Reading section (3 passages, 54 minutes),
+  plus one full run of `TOEFL/listening_practice_01.md` under its
+  no-preview, single-playthrough protocol.
 
 ## Weeks 5–6 — Stress-test weaknesses
 
