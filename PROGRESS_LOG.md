@@ -39,3 +39,13 @@ re-read of every word every time.
 | Word | First missed | Times missed | Mastered on |
 |---|---|---|---|
 | | | | |
+
+## Coach check-ins (automated)
+
+An automated check runs periodically and logs what it finds here. It does
+not do the work for you — it exists to make inactivity visible instead of
+easy to ignore.
+
+| Check-in date | Days since program start | Rows logged above | Verdict |
+|---|---|---|---|
+| 2026-10-30 | 29 | 0 | **Zero drills logged in 29 days.** Baseline (Week 0) was never taken. By the written schedule you should be finishing Week 4 (Speed and precision) today — instead there is no data to know where you stand. This is the single biggest risk to the target scores in `README.md`: you cannot hit Verbal 162+/Quant 165+/Band 7.5+ on a plan you haven't started running. Action owed before anything else: take the Week 0 baseline mock today and log it. |
