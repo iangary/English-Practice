@@ -30,6 +30,8 @@ than it uses rare words placed approximately right.
 
 ## Files here
 
+- `writing_task1.md` — graph/chart/table/process/map prompts, vocabulary
+  bank, rubric, self-grading checklist, timed.
 - `writing_task2.md` — prompts, rubric, self-grading checklist, timed.
 - `reading_practice_01.md` — one full passage + 13 questions + answer key.
 - `speaking_cue_cards.md` — Part 2 cue cards + Part 3 follow-ups.

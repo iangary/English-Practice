@@ -18,6 +18,10 @@ meaningless.
   drilled both directions (word→meaning, meaning→word).
 - **Mon/Wed/Fri:** One IELTS Writing Task 2 essay, 40 minutes, no outline
   prepared in advance. Self-grade against `IELTS/writing_task2.md`'s rubric.
+- **Tue/Thu (add to the GRE work below, same day):** One IELTS Writing
+  Task 1 (graph/chart/table/process/map), 20 minutes, rotate task types —
+  don't repeat a type until you've done all six in `IELTS/writing_task1.md`.
+  Self-grade against its rubric.
 - **Tue/Thu:** One GRE Text Completion set + one Reading Comprehension
   passage, both timed, from `GRE/text_completion_practice.md` and
   `GRE/reading_comprehension_practice.md`.
