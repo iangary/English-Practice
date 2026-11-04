@@ -115,6 +115,61 @@ tied to what they said), and contributes your own reasoned position.
 
 ---
 
+### Discussion Set 2 (harder — both posts are plausible, no easy side)
+
+> **Professor:** This week's topic is urban development. A proposal would
+> convert a large downtown parking lot into a public park. Supporters say
+> cities need more green space; opponents worry about losing parking in
+> an already congested area. What's your view?
+>
+> **Student A (Priya):** I'd support the park. Green space has measurable
+> mental health benefits, and parking lots are a poor use of prime
+> downtown land compared to something residents can actually use daily.
+>
+> **Student B (Tom):** I get the appeal, but if people can't park, they
+> just stop coming downtown at all, which hurts the local businesses the
+> park is supposed to benefit. A park nobody can reach isn't much of a
+> public good.
+
+**Your task:** Respond to at least one specific point Priya or Tom made,
+and take a position of your own — not just "both sides have good points."
+
+### Integrated Writing — Set 3
+
+**Reading passage:**
+
+> Many companies have begun requiring employees to return to the office
+> full-time after several years of remote work. Supporters of this policy
+> cite three main benefits. First, in-person collaboration leads to more
+> spontaneous idea generation than scheduled video calls. Second,
+> physical presence makes it easier for managers to mentor junior
+> employees effectively. Third, a shared office strengthens company
+> culture and employee loyalty.
+
+**Lecture transcript:**
+
+> "Each of these claims sounds reasonable but doesn't hold up well
+> against the actual data companies have gathered. First, on spontaneous
+> collaboration — several large firms that tracked internal communication
+> patterns found that most 'spontaneous' office conversations happened
+> between people who already worked closely together, not across teams,
+> so the promised cross-pollination mostly didn't materialize. Second,
+> on mentorship — studies comparing remote and in-office junior employees
+> found no significant difference in promotion rates or skill growth when
+> companies deliberately scheduled regular one-on-one mentoring time,
+> suggesting the mentoring benefit depends on intentional structure, not
+> physical proximity itself. Third, on culture and loyalty — several of
+> the companies that mandated full return actually saw an increase in
+> resignations immediately afterward, particularly among employees with
+> long commutes or caregiving responsibilities, suggesting the policy hurt
+> loyalty for a meaningful part of the workforce even if it helped for
+> others."
+
+**Your task:** Summarize the lecture's points and explain how they cast
+doubt on specific claims made in the reading passage.
+
+---
+
 ## Self-audit after each task
 
 - Integrated: did you name the specific point from the reading that each

@@ -65,6 +65,53 @@ question is still a weak answer).
     their appearance. What are the advantages and disadvantages of this
     trend?
 
+## Set 2 — higher difficulty (abstract / layered questions)
+
+These are deliberately more abstract than Set 1 — no concrete policy to
+describe, which means you have to generate the examples yourself instead
+of leaning on an obvious real-world case. That's exactly where Band 6–7
+essays stall: generic claims with no specific example to anchor them.
+
+**Opinion (agree/disagree):**
+11. "Success in life is determined more by luck than by hard work." To
+    what extent do you agree or disagree?
+12. Some people believe that the ability to work well with others is more
+    important for career success than individual talent. To what extent
+    do you agree or disagree?
+
+**Discuss both views:**
+13. Some argue that true happiness comes from achieving personal goals,
+    while others believe it comes from contributing to the well-being of
+    others. Discuss both views and give your own opinion.
+14. Some people think that traditional customs and values should be
+    preserved even as societies modernize; others think they inevitably
+    become obsolete and should be allowed to fade. Discuss both views and
+    give your opinion.
+
+**Problem/solution:**
+15. In many countries, young people are increasingly disengaged from
+    local and national politics. What are the causes of this, and what
+    measures could be taken to increase their engagement?
+16. The constant availability of news and information has led some
+    people to feel overwhelmed and anxious. What problems does this
+    cause, and what can be done to address them?
+
+**Two-part question:**
+17. Some people believe that artificial intelligence will eventually
+    replace the need for human judgment in most professional fields. Is
+    this a positive or negative development?
+18. Many believe that the purpose of a university education should be
+    purely academic, while others think it should also prepare students
+    for the job market directly. Which view do you agree with?
+
+**Advantages/disadvantages:**
+19. An increasing number of people are relying on social media as their
+    primary source of news. What are the advantages and disadvantages of
+    this trend?
+20. More companies are allowing employees to choose their own working
+    hours rather than fixed schedules. What are the advantages and
+    disadvantages of this flexibility?
+
 ## After you write: the honest 10-minute audit
 
 - Underline your thesis in the intro. Can you find it in under 5 seconds?

@@ -141,8 +141,130 @@ plug-back-in check. Make that automatic in your own work, not optional —
 it's the single habit most responsible for closing the gap between
 knowing the method and reliably getting the point under time pressure.
 
-### Scoring
+### Scoring, Set 1
 11–12/12 = Q165+ pace · 9–10 = Q160–164 · below 9: sort your misses into
 "careless" (knew the method, slipped on execution — drill verification
 habits) vs. "conceptual" (didn't know the approach — review that specific
 topic) in `PROGRESS_LOG.md`. These need entirely different fixes.
+
+---
+
+## Set 2 — harder, with Data Interpretation (21 minutes, 12 questions)
+
+Don't touch this set until Set 1 is at 11/12 or better twice in a row.
+These questions compress 2–3 steps into one stem, the way the real
+165+ range does — there's no single "trick," just more arithmetic you
+have to carry correctly across more steps without a scratch-pad error.
+
+**13.** A town's population grew by 20% in year 1 and then declined by
+15% in year 2. If the population at the end of year 2 was 20,400, what
+was the population at the start of year 1?
+
+**14.** x and y are positive integers and 2^x · 3^y = 648.
+
+Quantity A: x + y
+Quantity B: 6
+
+**15.** The ratio of men to women at a conference is 5:7. After 20 more
+women arrive and no men leave or arrive, the ratio becomes 5:9. How many
+men are at the conference?
+
+**16.** A set of 7 numbers has a mean of 15. If one number is removed,
+the mean of the remaining 6 numbers is 14. What was the number removed?
+
+**Data Interpretation (Q17–19): A survey asked 500 employees which of
+three benefits they valued most: Remote Work (R), Higher Salary (S), or
+More PTO (P). Results: R only = 140, S only = 110, P only = 90,
+R and S only = 45, R and P only = 35, S and P only = 25, all three = 15,
+none of the three = 40.**
+
+**17.** How many employees valued Remote Work (in any combination)?
+
+**18.** What percent of the 500 employees valued exactly two of the
+three benefits?
+
+**19.** How many employees valued Higher Salary OR More PTO (or both),
+but NOT Remote Work?
+
+**20.** A machine produces widgets at a constant rate and can complete a
+production run in 8 hours. A second, newer machine can complete the same
+run in 5 hours. If both machines work together, starting at the same
+time, how many hours will it take to complete the run? (Express as a
+fraction.)
+
+**21.** For how many integer values of n is 3 < |2n − 5| < 15 true?
+
+**22.** The probability that event A occurs is 0.4. The probability that
+event B occurs is 0.5. If A and B are independent, what is the
+probability that at least one of them occurs?
+
+**23.** A rectangle's length is increased by 25% and its width is
+decreased by x%. If the rectangle's area is unchanged, what is x?
+
+**24.** List L consists of 8 integers with a range of 20 and a median of
+10. What is the minimum possible value of the smallest integer in L?
+
+---
+
+### Worked Solutions, Set 2
+
+**13. Answer: 20,000.** Let P = starting population. P × 1.20 × 0.85 =
+20,400 → P × 1.02 = 20,400 → P = 20,000. (Trap: don't average the +20%
+and −15% into a single +5%/−5% shortcut — percent changes compound
+multiplicatively, not additively; 1.20 × 0.85 = 1.02, not 1.05.)
+
+**14. Answer: (A).** 648 = 8 × 81 = 2³ × 3⁴, so x = 3, y = 4, x + y = 7.
+Quantity A (7) > Quantity B (6).
+
+**15. Answer: 50 men.** Let men = 5k, women = 7k. (5k)/(7k+20) = 5/9 →
+45k = 35k + 100 → 10k = 100 → k = 10. Men = 5k = 50. Check: women =
+7(10)+20 = 90, ratio 50:90 = 5:9 ✓.
+
+**16. Answer: 21.** Sum of 7 numbers = 7×15 = 105. Sum of remaining 6 =
+6×14 = 84. Removed number = 105 − 84 = 21.
+
+**17. Answer: 235.** R only (140) + R∩S only (45) + R∩P only (35) + all
+three (15) = 140+45+35+15 = 235.
+
+**18. Answer: 21%.** Exactly two = (R∩S only) + (R∩P only) + (S∩P only)
+= 45+35+25 = 105. 105/500 = 21%. (Trap: "all three" is exactly three,
+not two — don't include the 15 here.)
+
+**19. Answer: 225.** Need S or P (any combination) but NOT R. The three
+groups that involve S or P without R are: S only (110), P only (90), and
+S∩P only (25) — by definition none of these three includes R. Sum =
+110+90+25 = **225**.
+
+**20. Answer: 40/13 hours.** Combined rate = 1/8 + 1/5 = 5/40 + 8/40 =
+13/40 (job/hour). Time = 1 ÷ (13/40) = 40/13 hours (≈ 3.08 hours).
+
+**21. Answer: 10.** 3 < |2n−5| < 15 splits into two cases. Case 1:
+2n−5 > 3 → n > 4, and 2n−5 < 15 → n < 10, so n ∈ {5,6,7,8,9}. Case 2:
+2n−5 < −3 → n < 1, and 2n−5 > −15 → n > −5, so n ∈ {−4,−3,−2,−1,0}.
+Total valid integers = 5 + 5 = 10. (Double-check your own boundary
+inclusivity here — this is exactly the kind of count that's easy to be
+off-by-one on.)
+
+**22. Answer: 0.7.** P(at least one) = 1 − P(neither) = 1 −
+[(1−0.4)(1−0.5)] = 1 − (0.6×0.5) = 1 − 0.3 = 0.7.
+
+**23. Answer: 20%.** Let original dimensions be L and W, area = LW. New
+area = 1.25L × (1−x/100)W = LW → 1.25 × (1−x/100) = 1 → 1−x/100 = 0.8 →
+x/100 = 0.2 → x = 20.
+
+**24. Answer: −10.** Sort the 8 values a1≤…≤a8. Median = (a4+a5)/2 = 10,
+so a4+a5 = 20 with a4 ≤ 10 ≤ a5. Range: a8 − a1 = 20, so a8 = a1 + 20.
+Since a5 ≤ a8, we get a5 ≤ a1 + 20. Combined with a5 ≥ 10 (from
+a4 ≤ a5 and a4+a5=20), that forces a1 + 20 ≥ 10, i.e., a1 ≥ −10. This is
+achievable: {−10, 10, 10, 10, 10, 10, 10, 10} has range 20 and median
+(10+10)/2 = 10. (Trap: the range constraint links the smallest value
+directly to the largest, and the largest can't dip below the median
+values above it — don't treat "minimize the smallest" as unconstrained
+just because the problem doesn't mention the largest directly.)
+
+### Scoring, Set 2
+10–12/12 = Q168+ pace · 7–9 = Q163–167 · below 7: this set is calibrated
+harder than Set 1 on purpose — don't panic at a lower raw score, but do
+log every miss by *which specific step* broke (not just "got it wrong")
+in `PROGRESS_LOG.md`, since multi-step problems usually fail at one
+identifiable link, not the whole chain.
