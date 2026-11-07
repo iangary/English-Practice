@@ -65,3 +65,85 @@ isolation — it fails you on whether you correctly identified the
 sentence's **logical direction** (same-direction clue vs. contrast clue)
 before you even got to picking the word. Drill the logic in
 `text_completion_practice.md` using these words once you've learned them.
+
+---
+
+# Set 2 (30 words) — harder, lower-frequency tier
+
+**Do not start Set 2 until you can do both directions of every Set 1 word
+in under 3 seconds, cold, on a day you haven't reviewed it.** Mixing in
+new words before the old ones are automatic is how vocabulary "knowledge"
+quietly turns into recognition-only knowledge that collapses under timer
+pressure.
+
+| Word | Part of speech | Definition | Example sentence |
+|---|---|---|---|
+| Anodyne | adj./n. | inoffensive, bland; or a painkiller | The spokesperson gave an **anodyne** statement that committed to nothing. |
+| Bellicose | adj. | eager to fight; aggressively hostile | The general's **bellicose** rhetoric alarmed even his own allies. |
+| Cacophony | n. | a harsh, discordant mixture of sounds | The orchestra's warm-up was a **cacophony** before the conductor arrived. |
+| Deleterious | adj. | harmful, often in a way not immediately obvious | Long-term stress has **deleterious** effects on cardiovascular health. |
+| Equanimity | n. | mental calm and composure, especially under stress | She received the harsh review with surprising **equanimity**. |
+| Fecund | adj. | highly fertile or productive, often of ideas | The workshop proved a **fecund** source of new research questions. |
+| Garish | adj. | obtrusively bright or showy; tasteless | The hotel lobby's **garish** gold décor overwhelmed every other detail. |
+| Harbinger | n. | a sign that something is about to happen | Falling retail sales were an early **harbinger** of the recession. |
+| Impetuous | adj. | acting quickly without thought; rash | His **impetuous** decision to quit cost him months of financial stability. |
+| Jubilant | adj. | feeling or expressing great happiness | The crowd was **jubilant** after the final whistle confirmed the win. |
+| Lachrymose | adj. | tearful or inclined to cause tears | The film's **lachrymose** final act felt manipulative rather than earned. |
+| Magnanimous | adj. | generous or forgiving, especially toward a rival | The champion was **magnanimous** in victory, praising her opponent's skill. |
+| Nefarious | adj. | wicked or criminal | The documentary exposed the company's **nefarious** accounting practices. |
+| Obstreperous | adj. | noisy and difficult to control | The **obstreperous** toddler refused to sit still through dinner. |
+| Perfunctory | adj. | done with minimal effort or reflection; routine | He gave the report a **perfunctory** glance before signing off on it. |
+| Querulous | adj. | complaining in a whining manner | The **querulous** passenger complained about every minor delay. |
+| Recondite | adj. | obscure, known to very few people | The seminar descended into **recondite** debates few outsiders could follow. |
+| Sagacious | adj. | having or showing keen judgment; wise | The **sagacious** investor avoided the bubble everyone else chased. |
+| Timorous | adj. | showing fear or lack of confidence | Her **timorous** first draft avoided taking any real position. |
+| Unctuous | adj. | excessively flattering or ingratiating | The salesman's **unctuous** manner made customers trust him less, not more. |
+| Vindicate | v. | to clear of blame; to prove right | The audit ultimately **vindicated** the whistleblower's original claims. |
+| Wary | adj. | cautious about possible danger or problems | Investors remained **wary** of the startup's unproven revenue model. |
+| Xenial | adj. | relating to hospitality, especially to strangers | The village's **xenial** customs meant guests were never allowed to pay. |
+| Yoke | v./n. | to join or link, often restrictively | The two provinces were **yoked** together under a single, resented tax code. |
+| Zephyr | n. | a gentle, mild breeze | A cool **zephyr** offered brief relief from the afternoon heat. |
+| Ascetic | adj./n. | practicing severe self-discipline, avoiding indulgence | The monk's **ascetic** lifestyle included a single meal a day. |
+| Bombastic | adj. | high-sounding but with little substance | Critics dismissed the politician's **bombastic** speech as empty rhetoric. |
+| Circumspect | adj. | wary and unwilling to take risks; cautious | Lawyers advised a **circumspect** public statement until the facts were clear. |
+| Diffident | adj. | modest or shy due to lack of self-confidence | His **diffident** manner in meetings masked genuinely sharp analysis. |
+| Exacerbate | v. | to make a problem worse | Cutting the budget further would only **exacerbate** the staffing crisis. |
+
+## Drill: fill in the blank (cover the answer key below)
+
+1. Rather than own the mistake, the manager offered only an ______
+   apology that satisfied no one.
+2. The critic praised the novel's ______ plotting, noting it never
+   sacrificed depth for pace.
+3. His ______ temperament made him prone to decisions he'd later regret.
+4. The scholar's work was so ______ that only a handful of specialists
+   worldwide could evaluate it properly.
+5. New evidence seemed likely to ______ the engineer who had warned about
+   the design flaw for years.
+
+### Answer key
+1. perfunctory
+2. fecund (accept "sagacious" only if justified by surrounding context —
+   here "fecund" fits plotting/productivity best)
+3. impetuous
+4. recondite
+5. vindicate
+
+## Cross-set contrast pairs worth drilling together
+
+GRE Sentence Equivalence often hinges on telling near-synonyms apart by
+*degree* or *connotation*, not just meaning. Drill these side by side:
+
+- **Laconic** (Set 1, few words by nature/style) vs. **Taciturn** (Set 1,
+  reserved, often due to mood/personality) vs. **Diffident** (Set 2, quiet
+  specifically from lack of confidence, not from economy of style).
+- **Sanguine** (Set 1, optimistic) vs. **Jubilant** (Set 2, happy about
+  something that already happened) — sanguine looks forward, jubilant
+  looks at a completed outcome.
+- **Specious** (Set 1, wrong but sounds right) vs. **Bombastic** (Set 2,
+  sounds impressive but is empty) — specious is about false logic,
+  bombastic is about empty grandiosity; a specious argument can be
+  plainly worded, a bombastic one cannot.
+- **Mitigate** (Set 1) vs. **Exacerbate** (Set 2) — true antonyms; GRE
+  loves testing whether you reach for the antonym under time pressure
+  instead of a near-miss.

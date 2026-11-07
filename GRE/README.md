@@ -27,7 +27,8 @@ Scored 130–170 per section (1-point increments) for Verbal/Quant, 0–6
 
 ## Files here
 
-- `verbal_vocab.md` — high-frequency GRE words, drilled both directions.
+- `verbal_vocab.md` — high-frequency GRE words, drilled both directions (Sets 1–2, 60 words).
+- `verbal_mock_01.md` — full 20-question, 30-minute Verbal section mock (Week 5 milestone).
 - `text_completion_practice.md` — timed TC/SE-style sets + explanations.
 - `reading_comprehension_practice.md` — one passage + questions + key.
 - `quant_drills.md` — arithmetic/algebra/geometry/data sets, fully worked.

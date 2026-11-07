@@ -47,7 +47,8 @@ meaningless.
 - Start combining skills: do a GRE Reading passage, then immediately an
   IELTS Writing Task 2 on a related theme — context-switching under
   fatigue is what the real test day actually demands.
-- **Weekly mock, Week 5:** Full GRE Verbal section (2 sections, 41 min total).
+- **Weekly mock, Week 5:** Full GRE Verbal section — use `GRE/verbal_mock_01.md`
+  (20 questions, 30 min, one sitting).
 - **Weekly mock, Week 6:** Full IELTS Writing (Task 1 + Task 2, 60 min).
 
 ## Weeks 7–8 — Full-length mocks, every week
