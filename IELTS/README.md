@@ -34,3 +34,5 @@ than it uses rare words placed approximately right.
 - `reading_practice_01.md` — one full passage + 13 questions + answer key.
 - `speaking_cue_cards.md` — Part 2 cue cards + Part 3 follow-ups.
 - `vocabulary.md` — academic collocations and band-8 phrasing upgrades.
+- `writing_task2_band9_benchmarks.md` — annotated Band 9 model + harsher
+  self-grading protocol. Do after 4+ essays from `writing_task2.md`.

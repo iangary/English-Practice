@@ -32,3 +32,5 @@ Scored 130–170 per section (1-point increments) for Verbal/Quant, 0–6
 - `reading_comprehension_practice.md` — one passage + questions + key.
 - `quant_drills.md` — arithmetic/algebra/geometry/data sets, fully worked.
 - `awa_prompts.md` — Issue + Argument prompts, rubric, outline method.
+- `verbal_vocab_set2.md` — hard-mode vocab (165+ tier). Clear Set 1 first.
+- `quant_drills_set2.md` — hard-mode quant, tighter timing. Clear Set 1 first.
