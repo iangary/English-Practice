@@ -146,3 +146,147 @@ knowing the method and reliably getting the point under time pressure.
 "careless" (knew the method, slipped on execution — drill verification
 habits) vs. "conceptual" (didn't know the approach — review that specific
 topic) in `PROGRESS_LOG.md`. These need entirely different fixes.
+
+---
+
+# GRE Quant — Drill Set 2
+
+**Same timer: 21 minutes for these 12 questions, on-screen calculator
+only.** This set leans harder on data interpretation and algebra traps —
+the two areas where a Q160 test-taker and a Q168 test-taker most
+visibly diverge.
+
+## Quantitative Comparison
+
+**1.** x and y are integers. x > y > 0.
+
+Quantity A: x/y
+Quantity B: (x+1)/(y+1)
+
+**2.** The sum of three consecutive even integers is 90.
+
+Quantity A: The smallest of the three integers
+Quantity B: 28
+
+**3.** A rectangle has perimeter 28 and area 48.
+
+Quantity A: The length of the longer side
+Quantity B: 12
+
+## Problem Solving
+
+**4.** A company's revenue grew by 20% in Year 1 and then fell by 20% in
+Year 2. What was the net percent change in revenue over the two years?
+
+**5.** If 5 machines can produce 100 units in 4 hours, how many hours
+would it take 8 machines, working at the same constant rate, to produce
+280 units?
+
+**6.** Set T consists of the integers from 1 to 50, inclusive. How many
+integers in T are divisible by either 4 or 6 (or both)?
+
+**7.** A solution is 30% acid by volume. How many liters of pure water
+must be added to 20 liters of this solution to dilute it to a 12% acid
+solution?
+
+**8.** In a class of 30 students, the ratio of students who passed to
+students who failed is 5:1. If 3 more students had passed and 3 fewer
+had failed, what would the new ratio of passed to failed be?
+
+**9.** What is the sum of all integers from 1 to 100 that are NOT
+multiples of 5?
+
+**10.** A right triangle has legs of length 9 and 12. A circle is
+inscribed in the triangle (tangent to all three sides). What is the
+radius of the inscribed circle?
+
+**11.** Working alone, Pump A can fill a tank in 6 hours. Working alone,
+Pump B can fill the same tank in 4 hours. If Pump A works alone for 1
+hour before Pump B joins it, how much additional time, in hours, is
+needed for both pumps working together to finish filling the tank?
+
+**12.** A data set of 7 distinct integers has a median of 20 and a range
+of 10. What is the least possible value of the largest integer in the
+set?
+
+---
+
+## Worked Solutions
+
+**1. Answer: (A).** Since x > y > 0, x/y is some ratio greater than 1.
+Adding 1 to both numerator and denominator always moves a ratio greater
+than 1 *closer to* 1 (e.g., 3/1=3 vs 4/2=2) — it never flips which is
+bigger. So x/y > (x+1)/(y+1) for any x > y > 0. Quantity A is greater.
+(Trap: don't assume adding the same amount to both doesn't change a
+ratio — it does, predictably, toward 1.)
+
+**2. Answer: (C).** Let the integers be n, n+2, n+4. Sum = 3n+6 = 90 →
+n = 28. The smallest is 28, which equals Quantity B exactly — the
+quantities are equal. (This is a deliberate reminder: always finish the
+arithmetic before answering — "looks like A because it's the smallest
+in a growing sequence" is not a solution.)
+
+**3. Answer: (B).** Let sides be L and W. 2(L+W)=28 → L+W=14. LW=48.
+Solving: L and W are roots of t² − 14t + 48 = 0 → (t−6)(t−8)=0, so sides
+are 6 and 8. The longer side is 8, which is less than 12, so Quantity B
+is greater. (Trap: don't assume the "longer side" of a rectangle with
+this perimeter must be large — solve the system before comparing.)
+
+**4. Answer: −4%.** Let revenue start at 100. Year 1: 100 × 1.20 = 120.
+Year 2: 120 × 0.80 = 96. Net change = 96 − 100 = −4, i.e., a 4% decrease.
+(Trap: a 20% gain and a 20% loss do not cancel out, because the second
+percentage applies to a different base.)
+
+**5. Answer: 7 hours.** Rate per machine = 100/(5×4) = 5 units/hour.
+8 machines produce 8×5 = 40 units/hour. Time for 280 units =
+280/40 = 7 hours. (Equivalently: 5 machines × 4 hours = 20 machine-hours
+for 100 units, so 280 units need 56 machine-hours; 56/8 = 7 hours.)
+
+**6. Answer: 16.** Multiples of 4 from 1–50: 12 (4,8,...,48). Multiples
+of 6: 8 (6,12,...,48). Multiples of both 4 and 6 (i.e., of 12): 4
+(12,24,36,48). By inclusion-exclusion: 12 + 8 − 4 = 16. (This is the
+classic inclusion-exclusion trap: forgetting to subtract the overlap
+double-counts the multiples of 12.)
+
+**7. Answer: 30 liters.** Pure acid in original solution = 20 × 0.30 =
+6 liters. After adding x liters of water, total volume = 20+x, and acid
+is still 6 liters, now at 12%: 6/(20+x) = 0.12 → 20+x = 50 → x = 30.
+
+**8. Answer: 14:1.** 30 students, ratio 5:1 passed to failed means 25
+passed, 5 failed. Shifting 3 (passed: 25→28, failed: 5→2): new ratio =
+28:2 = 14:1.
+
+**9. Answer: 4000.** Sum of 1 to 100 = 100×101/2 = 5050. Multiples of 5
+from 1–100: 5,10,...,100 — that's 20 terms, sum = 5×(1+2+...+20) =
+5×210 = 1050. Non-multiples of 5 sum = 5050 − 1050 = 4000.
+
+**10. Answer: 3.** Hypotenuse = √(9²+12²) = √(81+144) = √225 = 15. For a
+right triangle, inradius r = (leg1 + leg2 − hypotenuse)/2 =
+(9+12−15)/2 = 6/2 = 3.
+
+**11. Answer: 2 hours.** Pump A's rate = 1/6 tank/hour, Pump B's rate =
+1/4 tank/hour. After A works alone for 1 hour, 1/6 of the tank is full,
+leaving 5/6. Combined rate = 1/6+1/4 = 2/12+3/12 = 5/12 tank/hour. Time
+to finish 5/6 at that rate = (5/6)/(5/12) = (5/6)×(12/5) = 2 hours.
+
+**12. Answer: 23.** Sorted, the 7 distinct integers are v1<v2<v3<v4<v5<v6<v7,
+with median v4 = 20 and range v7−v1 = 10. We want to minimize v7. Since
+v5, v6, v7 must be three *distinct* integers all greater than 20, the
+smallest they can possibly be is 21, 22, 23 — so v7 ≥ 23 no matter what.
+Can v7 = 23 actually be achieved while also satisfying the range
+constraint (v1 = v7−10 = 13) and fitting two distinct integers strictly
+between v1=13 and v4=20 (e.g., 14, 15)? Yes: the set {13, 14, 15, 20,
+21, 22, 23} is valid — 7 distinct integers, median 20, range 23−13=10.
+So the true minimum is **23**. (Flagged as the hardest question in this
+set: the trap is minimizing v1 instead of recognizing that v7 is bounded
+below by the three distinct values that must exceed the median,
+independent of the range constraint — the range constraint only matters
+for confirming a valid v1 exists, which it does here.)
+
+### Scoring
+10–12/12 = Q165+ pace, but review #2, #3, and #12 carefully even if you
+got them right — each one has a one-step trap (stopping before finishing
+the arithmetic, assuming "longer side" implies large, or anchoring on
+the wrong variable to minimize). 7–9 = solid, keep drilling algebraic
+word problems. Below 7: stop doing new questions and instead redo Set 1
+untimed, talking through your reasoning out loud.
