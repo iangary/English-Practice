@@ -4,6 +4,10 @@ Log every timed drill and every mock here. "I'll remember" is not a
 tracking system. Copy the row template and fill it in immediately after
 each session — scores decay in memory within hours.
 
+**Coach note, 2026-11-12:** every table below is still empty, six weeks
+after this plan was written. Run `GAUNTLET.md` today and fill in the
+Baseline row before adding anything else here.
+
 ## Baseline (Week 0)
 
 | Date | Exam/Section | Score/Band | Time taken | Notes |

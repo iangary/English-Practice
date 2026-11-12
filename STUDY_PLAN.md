@@ -4,6 +4,29 @@ Assume 90–120 minutes/day, 6 days/week. If you have less time, cut volume,
 never cut the timer and never cut the weekly mock. Rest day is day 7, and
 even then you owe 20 minutes of vocab.
 
+## ⚠ Coach check-in — 2026-11-12 (six weeks since this plan was written)
+
+`PROGRESS_LOG.md` has zero rows. Not a thin baseline, not a few missed
+days — zero. No baseline mock, no drill, no weekly mock, in six weeks.
+That means Weeks 0–6 below did not happen, no matter what the calendar
+says. Two honest paths from here, pick one today:
+
+1. **If a real exam date is set and close:** you do not have 10 weeks
+   anymore — you have whatever's left. Compress: run Week 0's baseline
+   mock today, then jump straight to Weeks 5–8 intensity (full sections,
+   combined-skill sessions, weekly full mocks) and accept you're doing it
+   with less runway and no "foundations" buffer. That is a worse position
+   than starting on time, not a neutral one — own it instead of pretending
+   the lost weeks don't matter.
+2. **If no exam date is fixed yet:** restart the clock honestly. Today is
+   Day 1 of a new Week 0, not Week 6 of the old one. Delete the fiction
+   that you're "six weeks in."
+
+Either way, the floor for today is `GAUNTLET.md` — a single timed sitting
+that forces a real baseline across all three exams in one session, because
+six weeks of avoidance means you don't actually know where you stand. Do
+not read further into this file until that's logged.
+
 ## Week 0 — Baseline (do this before anything else)
 
 Take one full timed mock of each exam's weakest-for-you section this week
