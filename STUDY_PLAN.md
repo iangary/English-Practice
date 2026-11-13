@@ -8,9 +8,10 @@ even then you owe 20 minutes of vocab.
 
 Take one full timed mock of each exam's weakest-for-you section this week
 (you don't need all three exams' full mocks — just enough to know where you
-stand). Log every score, with date, in `PROGRESS_LOG.md`. No studying
-"around" this — if you don't know your baseline, every later number is
-meaningless.
+stand). Use `BASELINE_MOCK.md` for a ready-made diagnostic across all
+three exams if you haven't built your own. Log every score, with date, in
+`PROGRESS_LOG.md`. No studying "around" this — if you don't know your
+baseline, every later number is meaningless.
 
 ## Weeks 1–2 — Foundations, no shortcuts
 
