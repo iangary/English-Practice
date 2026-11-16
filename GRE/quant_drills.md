@@ -146,3 +146,140 @@ knowing the method and reliably getting the point under time pressure.
 "careless" (knew the method, slipped on execution — drill verification
 habits) vs. "conceptual" (didn't know the approach — review that specific
 topic) in `PROGRESS_LOG.md`. These need entirely different fixes.
+
+---
+
+# Set 2 — Q165+ pace (18 minutes, 12 questions, 1:30/question)
+
+Faster than Set 1 on purpose. At this level the content isn't harder
+math — it's more steps packed into less time, plus traps that only
+show up once you stop reading carefully because you're rushing.
+
+## Quantitative Comparison
+
+**1.** n is a positive integer.
+
+Quantity A: n² + n
+Quantity B: An even number
+
+**2.** The sequence is defined by a₁ = 3 and a₍ₙ₊₁₎ = 2aₙ − 1 for all n ≥ 1.
+
+Quantity A: a₄
+Quantity B: 17
+
+**3.** x² − 5x + 6 = 0
+
+Quantity A: x
+Quantity B: 2
+
+## Problem Solving
+
+**4.** In how many ways can 6 people be seated in a row of 6 chairs if
+two specific people, A and B, must NOT sit next to each other?
+
+**5.** Pipe A fills a tank in 6 hours. Pipe B fills the same tank in 4
+hours. Pipe C, a drain, empties the full tank in 12 hours. Starting
+empty, with all three operating simultaneously, how long does it take to
+fill the tank?
+
+**6.** Events X and Y are independent. P(X) = 0.6 and P(Y) = 0.5. What
+is the probability that at least one of X or Y occurs?
+
+**7.** A positive integer n leaves a remainder of 3 when divided by 7
+and a remainder of 2 when divided by 5. What is the remainder when n is
+divided by 35?
+
+**8.** The ratio of men to women at a company is 3:5. After the company
+hires 10 more men and 10 more women, the new ratio is 2:3. How many
+employees worked at the company originally (before the new hires)?
+
+**9.** If 2^(x+1) + 2^x = 96, what is the value of x?
+
+**10.** A committee of 4 is chosen at random from a pool of 6 men and 4
+women. What is the probability that the committee includes at least 2
+women?
+
+**11.** Given −3 < x < 2 and 1 < y < 4, indicate **all** of the
+following that must be true:
+(A) x + y < 6
+(B) x − y < −2
+(C) xy > −15
+
+**12.** A stock's price rises 20% in year 1, falls 25% in year 2, then
+rises 50% in year 3. What is the net percent change over the three
+years?
+
+---
+
+## Worked Solutions
+
+**1. Answer: (C).** n² + n = n(n+1), the product of two consecutive
+integers. One of any two consecutive integers is always even, so the
+product is always even, regardless of what n is. (Trap: the fact that
+the problem gives you *no information* about n other than "positive
+integer" should be your cue to look for something true for *every* such
+n — not to assume the comparison is unresolvable.)
+
+**2. Answer: (C).** a₁ = 3, a₂ = 2(3)−1 = 5, a₃ = 2(5)−1 = 9,
+a₄ = 2(9)−1 = 17. They're equal.
+
+**3. Answer: (D).** Factor: (x−2)(x−3) = 0, so x = 2 or x = 3. Since x
+could equal Quantity B (2) or exceed it (3), the relationship cannot be
+determined from the information given.
+
+**4. Answer: 480.** Total arrangements with no restriction = 6! = 720.
+Arrangements where A and B sit together: glue them into one block (2
+internal orders) with the remaining 4 people: 5! × 2 = 240. Arrangements
+where they are NOT adjacent = 720 − 240 = **480**.
+
+**5. Answer: 3 hours.** Rates: A = 1/6, B = 1/4, C = −1/12 (draining).
+Combined rate = 1/6 + 1/4 − 1/12 = 2/12 + 3/12 − 1/12 = 4/12 = 1/3 tank
+per hour. Time to fill = 1 ÷ (1/3) = **3 hours**.
+
+**6. Answer: 0.8.** P(at least one) = 1 − P(neither) = 1 − (1−0.6)(1−0.5)
+= 1 − (0.4)(0.5) = 1 − 0.2 = **0.8**.
+
+**7. Answer: 17.** By the Chinese Remainder Theorem the answer is unique
+mod 35. Test n = 17: 17 ÷ 7 = 2 remainder 3 ✓; 17 ÷ 5 = 3 remainder 2 ✓.
+Remainder when divided by 35 is **17** (don't overthink this — once you
+find any n satisfying both conditions that's less than 35, that IS the
+remainder).
+
+**8. Answer: 80.** Let men = 3k, women = 5k. (3k+10)/(5k+10) = 2/3 →
+3(3k+10) = 2(5k+10) → 9k+30 = 10k+20 → k = 10. Original men = 30,
+women = 50, total = **80**. (Trap: the question asks for the *original*
+total, not the total after hiring — rereading what's actually being
+asked costs nothing; answering the wrong question costs the whole point.)
+
+**9. Answer: x = 5.** 2^(x+1) + 2^x = 2^x·2 + 2^x = 2^x(2+1) = 3·2^x = 96
+→ 2^x = 32 = 2^5 → **x = 5**.
+
+**10. Answer: 23/42 (≈0.548).** Total ways = C(10,4) = 210. At least 2
+women = exactly 2 + exactly 3 + exactly 4 women:
+exactly 2: C(4,2)×C(6,2) = 6×15 = 90
+exactly 3: C(4,3)×C(6,1) = 4×6 = 24
+exactly 4: C(4,4)×C(6,0) = 1×1 = 1
+Total favorable = 115. Probability = 115/210 = **23/42**.
+
+**11. Answer: (A) and (C) only.** (A): the supremum of x+y is 2+4=6,
+never reached since both bounds are strict, so x+y < 6 always holds —
+must be true. (B): x−y ranges up to just under 2−1=1 (e.g., x=1.9,
+y=1.1 gives x−y=0.8), which is NOT < −2, so (B) is false — a value in
+range violates it. (C): the most negative xy can get is as x→−3 and
+y→4, approaching −12, which is still greater than −15, so xy > −15
+always holds. (Trap: it's tempting to assume all three "look similarly
+plausible" from a glance at the bounds — you have to actually test the
+extremes of the ranges for each one individually.)
+
+**12. Answer: +35%.** Start at 100. Year 1: 100 × 1.20 = 120. Year 2:
+120 × 0.75 = 90. Year 3: 90 × 1.50 = 135. Net change = 135 − 100 = **+35%**.
+(Trap: a 20% gain and a 25% loss do not cancel to zero, and the order
+and compounding matter — always multiply successive factors, never add
+or subtract the percentages directly.)
+
+### Scoring
+11–12/12 in 18 minutes = Q168+ pace · 9–10 = Q163–167 · below 9 or over
+20 minutes: this set is specifically designed to punish rushing without
+rereading — if you missed (1), (8), or (11), that's a reading-the-
+question problem, not a math problem. Log which it was in
+`PROGRESS_LOG.md`.

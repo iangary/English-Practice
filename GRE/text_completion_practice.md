@@ -134,3 +134,125 @@ eliminate it entirely.
 9–10/10 = on pace for V165+ · 7–8 = V160-ish · below 7: for every miss,
 write down whether you missed the **vocabulary** or the **logical
 signal** — they require completely different fixes.
+
+---
+
+# Set 2 — using `verbal_vocab.md` Set 2 words
+
+Same protocol as Set 1: state the logical signal before you pick a word.
+This set draws on the rarer tier of vocabulary on purpose — if a word
+feels unfamiliar, that's the point; go learn it in Set 2 of
+`verbal_vocab.md` and come back.
+
+## Text Completion
+
+**1 (one blank).** The new CEO's speech was praised by employees as
+______; she acknowledged the company's recent layoffs directly instead
+of glossing over them with vague corporate language.
+
+(A) perfunctory (B) candid (C) obsequious
+
+**2 (one blank).** Reviewers found his prose needlessly ______, piling
+on ornate description where a single plain sentence would have done the
+job.
+
+(A) florid (B) laconic (C) tenuous
+
+**3 (two blanks).** The professor's lecture style was often criticized
+as (i)______, repeating the same three examples every semester with
+evident lack of enthusiasm, yet her research was anything but
+(ii)______, breaking genuinely new theoretical ground.
+
+Blank (i): (A) perfunctory (B) gregarious (C) mendacious
+Blank (ii): (A) inchoate (B) derivative (C) sagacious
+
+**4 (two blanks).** The negotiator approached the tense hostage crisis
+with remarkable (i)______, her calm voice never wavering even as the
+situation grew more (ii)______.
+
+Blank (i): (A) equanimity (B) rancor (C) abeyance
+Blank (ii): (A) exigent (B) gregarious (C) florid
+
+**5 (one blank).** Far from being ______, the ambassador's remarks were
+measured and diplomatic even when provoked by hostile questions.
+
+(A) acrimonious (B) diffident (C) loquacious
+
+**6 (three blanks).** Early in his career his writing was (i)______,
+ideas sketched but never fully developed; critics who dismissed him as
+(ii)______ were later embarrassed when his mature work proved remarkably
+(iii)______, revealing a mind far more careful than they had assumed.
+
+Blank (i): (A) inchoate (B) mendacious (C) gregarious
+Blank (ii): (A) sagacious (B) impetuous (C) candid
+Blank (iii): (A) perfunctory (B) sagacious (C) tenuous
+
+---
+
+## Sentence Equivalence
+
+**7.** Despite his reputation for honesty, investigators found his
+testimony to be entirely ______, contradicted by every piece of physical
+evidence.
+
+(A) mendacious (B) truthful (C) forthright (D) candid (E) fabricated (F) dishonest
+
+**8.** The senator's speech was interrupted by ______ heckling from the
+back of the hall.
+
+(A) querulous (B) gregarious (C) complaining (D) sagacious (E) carping (F) florid
+
+**9.** His colleagues found his constant flattery of the boss ______ and
+transparently self-serving.
+
+(A) obsequious (B) diffident (C) unctuous (D) gregarious (E) sagacious (F) impetuous
+
+**10.** The committee's report was criticized as ______, offering only
+vague generalities rather than a genuine analysis.
+
+(A) perfunctory (B) thorough (C) cursory (D) sagacious (E) exigent (F) candid
+
+---
+
+## Answer Key & Logic Explanations
+
+1. **(B) candid** — "acknowledged... directly instead of glossing over"
+   is the direct-support clue for a word meaning honest/straightforward;
+   "perfunctory" (going through the motions) and "obsequious" (servile)
+   don't match.
+2. **(A) florid** — "needlessly... ornate description where a plain
+   sentence would do" directly supports "florid." "Laconic" is the
+   opposite (brief), included as a Set 1 callback trap.
+3. **(i) A perfunctory, (ii) B derivative** — "repeating the same
+   examples... lack of enthusiasm" = going-through-the-motions, i.e.
+   perfunctory. "Yet... anything but ___, breaking new ground" negates a
+   word meaning unoriginal — "derivative" is what her research is NOT.
+4. **(i) A equanimity, (ii) A exigent** — "calm voice never wavering"
+   directly supports "equanimity" (composure under stress). "Grew more
+   ___" as a hostage crisis intensifies supports "exigent" (urgent,
+   demanding immediate action).
+5. **(A) acrimonious** — "Far from being ___" + "measured and
+   diplomatic even when provoked" means the blank must be the opposite
+   of measured/diplomatic: bitter, angry — acrimonious.
+6. **(i) A inchoate, (ii) B impetuous, (iii) B sagacious** — "sketched
+   but never fully developed" = inchoate. Critics' dismissive label that
+   was later proven wrong, paired with "far more careful than they had
+   assumed," means (ii) was a charge of acting rashly (impetuous) and
+   (iii) is what his work actually proved: wise/judicious (sagacious).
+7. **(A) mendacious, (F) dishonest** — "contradicted by every piece of
+   physical evidence" supports a word meaning untruthful; these two are
+   the closest denotative synonyms of the pair offered.
+8. **(A) querulous, (E) carping** — both mean complaining in a petty,
+   whining way, matching "heckling."
+9. **(A) obsequious, (C) unctuous** — both describe excessive,
+   self-serving flattery.
+10. **(A) perfunctory, (C) cursory** — both mean done with minimal
+    effort/attention, matching "vague generalities rather than a genuine
+    analysis."
+
+### Scoring
+9–10/10 = on pace for V167+ · 7–8 = V162-ish · below 7: this set leans
+harder on raw vocabulary recall than Set 1 — if you got the logic right
+but picked the wrong word, that's a vocabulary gap, not a reasoning gap,
+and the fix is more reps on `verbal_vocab.md` Set 2, not more TC
+practice.
