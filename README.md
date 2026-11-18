@@ -11,6 +11,7 @@ file doesn't have a timer attached to it, it's not a drill, it's trivia.
 
 | Folder | Contents |
 |---|---|
+| `COACH_CHECKIN.md` | **Read this first if `PROGRESS_LOG.md` is still empty.** |
 | `STUDY_PLAN.md` | The 10-week schedule. Start here. |
 | `PROGRESS_LOG.md` | Your scorecard. Fill it in after every drill — no exceptions. |
 | `IELTS/` | Writing Task 2, Academic Reading, Speaking cue cards, vocabulary |
