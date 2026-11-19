@@ -30,7 +30,11 @@ than it uses rare words placed approximately right.
 
 ## Files here
 
+- `writing_task1.md` — Academic Task 1 (graphs/charts/process/map)
+  prompts, rubric, self-grading checklist, timed.
 - `writing_task2.md` — prompts, rubric, self-grading checklist, timed.
 - `reading_practice_01.md` — one full passage + 13 questions + answer key.
+- `listening_practice_01.md` — Section 1 + Section 3 drill, read-aloud
+  script protocol, timed, answer key.
 - `speaking_cue_cards.md` — Part 2 cue cards + Part 3 follow-ups.
 - `vocabulary.md` — academic collocations and band-8 phrasing upgrades.
