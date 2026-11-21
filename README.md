@@ -12,6 +12,7 @@ file doesn't have a timer attached to it, it's not a drill, it's trivia.
 | Folder | Contents |
 |---|---|
 | `STUDY_PLAN.md` | The 10-week schedule. Start here. |
+| `BASELINE_GUT_CHECK.md` | The Week 0 baseline session, timed and combined. If `PROGRESS_LOG.md`'s baseline table is still empty, do this before anything else below. |
 | `PROGRESS_LOG.md` | Your scorecard. Fill it in after every drill — no exceptions. |
 | `IELTS/` | Writing Task 2, Academic Reading, Speaking cue cards, vocabulary |
 | `TOEFL/` | Independent + Integrated Writing, Reading, Speaking tasks |
